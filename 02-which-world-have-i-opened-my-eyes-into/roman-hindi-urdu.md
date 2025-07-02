@@ -1,6 +1,4 @@
-> ✍️ "Writing doesn’t just express emotions. It heals them."  
-> ✍️ "لکھنا صرف جذبات کا اظہار نہیں، بلکہ روح کی تسکین بھی ہے۔"  
-> ✍️ "Likhna sirf jazbaat ka izhaar nahi, balkay rooh ki taskeen bhi hai."
+> ✍️ "Writing doesn’t just express emotions. It heals them."
 
 # 🌿 feelings-unwritten
 
@@ -10,7 +8,7 @@
 ---
 
 ### **Roman Urdu/Hindi Title:**  
-**Kis Duniya Mein Aankh Khuli Hai?**
+# Kis Duniya Mein Aankh Khuli Hai?
 
 ---
 
