@@ -1,15 +1,13 @@
-> ✍️ "Writing doesn’t just express emotions. It heals them."  
-> ✍️ "لکھنا صرف جذبات کا اظہار نہیں، بلکہ روح کی تسکین بھی ہے۔"  
-> ✍️ "Likhna sirf jazbaat ka izhaar nahi, balkay rooh ki taskeen bhi hai."
+> ✍️ **Writing doesn’t just express emotions. It heals them.**
 
 # 🌿 feelings-unwritten
 
-> _"Not everything we feel is written. But once we write, we finally feel it right."_  
+> **Not everything we feel is written. But once we write, we finally feel it right.**  
 
 ---
 ---
 
-**Afsana — Waqt Ki Raakh Mein Lipta Hua Khwab**
+# Afsana — Waqt Ki Raakh Mein Lipta Hua Khwab
 
 Ek din,  
 Aankh khuli —  
