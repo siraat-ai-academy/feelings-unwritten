@@ -9,7 +9,7 @@
 ---
 ---
 
-### **Roman Urdu Title:**  
+### **Roman Urdu/Hindi Title:**  
 **Kis Duniya Mein Aankh Khuli Hai?**
 
 ---
