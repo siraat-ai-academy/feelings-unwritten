@@ -8,7 +8,7 @@
 
 ---
 ---
-**This poem is a mirror — it quietly invites us all to pause… and think.**  
+# This poem is a mirror — it quietly invites us all to pause… and think. 
 _ _
 
 **Which World Have I Opened My Eyes Into?**
