@@ -45,7 +45,12 @@ Whether you're here to reflect or feel less alone,
 You are welcome.
 
 ہر فائل میں کوئی جذبہ چھپا ہے۔  
-اگر آپ کا دل بھی کبھی چپ سا ہوا — تو شاید یہاں اُس کی آواز مل جائے۔
+"جو باتیں کسی سے نہ کہہ سکیں — شاید یہاں وہ چپکے سے سن لی جائیں۔"
+
+"Jo baatein kisi se na keh sakein — shayad yahan woh chupkay se sun li jaayein."
+
+"The words we never dared to speak — may softly be heard here."
+
 
 ---
 
