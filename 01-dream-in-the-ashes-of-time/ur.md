@@ -1,6 +1,7 @@
-> ✍️ "Writing doesn’t just express emotions. It heals them."  > ✍️ "لکھنا صرف جذبات کا اظہار نہیں، بلکہ روح کی تسکین بھی ہے۔"  
+# 🌿 feelings-unwritten> ✍️ **Writing doesn’t just express emotions. It heals them.**
+> ✍️ "لکھنا صرف جذبات کا اظہار نہیں، بلکہ روح کی تسکین بھی ہے۔"  
 
-# 🌿 feelings-unwritten
+
 
 > **Not everything we feel is written. But once we write, we finally feel it right.**  
 
