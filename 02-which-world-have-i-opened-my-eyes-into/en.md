@@ -1,10 +1,8 @@
-> ✍️ **Writing doesn’t just express emotions. It heals them.**
-
 # 🌿 feelings-unwritten
 
-> **Not everything we feel is written. But once we write, we finally feel it right.**  
+> ✍️ **Writing doesn’t just express emotions. It heals them.**
 
----
+> ✍️ **لکھنا صرف جذبات کا اظہار نہیں، بلکہ روح کی تسکین بھی ہے۔**  
 ---
 **This poem is a mirror — it quietly invites us all to pause… and think.** 
 _ _
