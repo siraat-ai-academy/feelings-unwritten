@@ -4,7 +4,7 @@
 
 > ✍️ **لکھنا صرف جذبات کا اظہار نہیں، بلکہ روح کی تسکین بھی ہے۔**  
 ---
-🎙️ *"My Friend, Where Are You?" — A Conversation with the Self*
+# My Friend, Where Are You?" — A Conversation with the Self
 
 Where are you, my friend?  
 I searched for you in every corner of my life —  
