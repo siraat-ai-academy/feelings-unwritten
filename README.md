@@ -40,17 +40,17 @@ Both live side by side in harmony — just like our thoughts and translations of
 
 ### 💛 Welcome
 
-Whether you read in English or Urdu,  
-Whether you're here to reflect or feel less alone,  
+Whether you read in English or Urdu,
+Whether you're here to reflect or feel less alone,
 You are welcome.
 
-ہر فائل میں کوئی جذبہ چھپا ہے۔  
-"جو باتیں کسی سے نہ کہہ سکیں — شاید یہاں وہ چپکے سے سن لی جائیں۔"
+ہر فائل میں کوئی جذبہ چھپا ہے۔
+جو باتیں کسی سے نہ کہہ سکیں — شاید یہاں وہ چپکے سے سن لی جائیں۔
 
-"Jo baatein kisi se na keh sakein — shayad yahan woh chupkay se sun li jaayein."
+Har file mein koi jazba chhupa hai.
+Jo baatein kisi se na keh sakein — shayad yahan woh chupkay se sun li jaayein.
 
 "The words we never dared to speak — may softly be heard here."
-
 
 ---
 
