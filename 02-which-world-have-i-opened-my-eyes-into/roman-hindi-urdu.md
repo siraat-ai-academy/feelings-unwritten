@@ -7,7 +7,7 @@
 ---
 ---
 
-### **Roman Urdu/Hindi Title:**  
+**Yeh nazm ek aaina hai — jo hum sab ko thoda sa ruk kar sochne par majboor karti hai.**  
 # Kis Duniya Mein Aankh Khuli Hai?
 
 ---
