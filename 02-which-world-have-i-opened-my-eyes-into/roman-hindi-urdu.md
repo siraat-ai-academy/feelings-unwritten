@@ -1,8 +1,8 @@
-> ✍️ "Writing doesn’t just express emotions. It heals them."
+> ✍️ **Writing doesn’t just express emotions. It heals them.**
 
 # 🌿 feelings-unwritten
 
-> _"Not everything we feel is written. But once we write, we finally feel it right."_  
+> **Not everything we feel is written. But once we write, we finally feel it right.**  
 
 ---
 ---
