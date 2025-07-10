@@ -226,7 +226,7 @@ The verse invites us to pause and be in awe. Not out of pressure, but because th
 
 Omar and Rohan were walking home from evening prayer. They were both quiet, until Omar softly said, *“Ar-Rahman, Ar-Raheem.”*
 
-Rohan looked at him. “It’s wild,” he said. “How those names are always first. Not ‘Judge of all,’ or ‘Knower of all,’ but Mercy. Twice.”
+Rohan looked at him. “It’s beautiful,” he said. “How those names are always first. Not ‘Judge of all,’ or ‘Knower of all,’ but Mercy. Twice.”
 It felt like the Qur’an was making something clear: before we fear Allah, we should know His care. His mercy doesn’t run out when we mess up — it’s the starting point.
 
 ---
