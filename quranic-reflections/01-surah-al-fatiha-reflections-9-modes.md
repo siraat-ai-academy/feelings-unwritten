@@ -88,7 +88,7 @@ The verse didn’t answer with a how. It answered with presence.
 
 Later that night, the three friends caught up on a call — Yusuf, Imran, and Rohan. They didn’t plan to talk about the verse, but somehow, it came up.
 
-“Funny,” Yusuf said, “how these words feel new every time.”
+“Isn’t it something… how these words always feel fresh?” Yusuf said quietly.
 Imran nodded, “It’s not about being perfect. I think it’s about returning. Again and again.”
 
 No one corrected the other. No one claimed to know it all. They just let the verse settle between them like a soft light.
