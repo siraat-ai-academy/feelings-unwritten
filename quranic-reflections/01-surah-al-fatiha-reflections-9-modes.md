@@ -117,7 +117,7 @@ But this time, he was reflecting. And maybe that’s where the path begins again
 
 ### 🌾 8. The Verse That Found Them All
 
-None of them had planned this reflection. But somehow, each had carried the Surah into their day. And it had spoken — not in thunder, but in whispers.
+None of them had planned this reflection. But somehow, each had carried the Surah into their day. And it had spoken — not to the ears, but straight to the soul.
 
 **Yusuf didn’t say much after reading it. He just smiled quietly, closed his notebook, and sat still.**
 
