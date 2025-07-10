@@ -233,7 +233,7 @@ It felt like the Qur’an was making something clear: before we fear Allah, we s
 
 ### 🕊️ 3. The Reminder of True Accountability
 
-Later that night, Imran reread the verse: *“Master of the Day of Judgment.”* It sounded grand, almost far away. But the more he thought, the closer it came.
+Later that night, Imran reread the verse: *“Master of the Day of Judgment.”* It sounded powerful, like a truth too big to hold. But the more he listened, the more it held him.
 
 He whispered, “There *is* a day where the truth of every action will be known.”
 But this wasn’t to scare. It was to bring him back to what matters. If no one sees your effort — Allah still does. If you hold your tongue when angry — He knows. That’s enough.
