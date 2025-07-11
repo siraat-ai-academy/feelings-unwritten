@@ -22,7 +22,6 @@ is what truly separates those who succeed from those who give up.
 
 ---
 
-Here’s a **fictional short story** based on your quote, using rich, diverse characters and a relatable, professional setting — all centered around the theme: *“Stay the Path.”*
 
 ---
 
