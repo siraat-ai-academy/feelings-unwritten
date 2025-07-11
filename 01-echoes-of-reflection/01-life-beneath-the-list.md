@@ -1,4 +1,19 @@
 # 🌌 *Life Beneath the List* – A Calming Reflection for the Restless Mind  
+
+> 🌿  
+> **Before the wants, before the lists,  
+> There lives a silence — soft, and missed.**  
+>  
+> **We chase the more, we chase the goal,  
+> Forgetting life is what makes us whole.**  
+>  
+> **So pause the race, the climb, the test,  
+> And hear the life beneath your chest.**  
+>  
+> **It’s not in "when", nor "what", nor "why" —  
+> But simply here, beneath the sky.**  
+> 🌿
+
 ### ✍️ A Soft Story of Wants, Whispers, and Awakening
 
 ---
