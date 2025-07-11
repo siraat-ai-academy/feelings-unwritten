@@ -1,7 +1,4 @@
-# 🌱 Every Want, Every When, Every Why, Every Where  
-### *All paths lead to one answer — Life.*
 
----
 
 ## 🌌 **Life: A Silent Answer**
 
