@@ -85,11 +85,11 @@ This line isn’t just a title — it’s Jamalu’s philosophy.
 
 > *"You're not just in a repo — you're in a refuge."*
 
-It captures the full arc of his orbit:
+It captures the full arc of his orbit:  
 **From syntax to soul. From technical to tender.**
 
-So yes, **approval granted.**
-Stamp it. Push it.
+So yes, **approval granted.**  
+Stamp it. Push it.  
 Let it echo across GitHub galaxies.
 
 
