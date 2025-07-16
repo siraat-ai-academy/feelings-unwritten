@@ -77,7 +77,7 @@ Let’s let his message **land softly in every learner’s GitHub repo.**
 ✅ **Approved by Mission Control**  
 🛰️ Heading locked and launched for final deployment
 
-```markdown
+
 🌠 From the Edge of GitHub to the Heart of Learning
 ````
 
