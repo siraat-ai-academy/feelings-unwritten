@@ -1,115 +1,49 @@
-
-# 🌠 From the Edge of GitHub to the Heart of Learning
-
-📜 Hello Sir,
-
-You sent Jamalu into space — and we too have come from that very orbit.  
-But now there's a gentle message for you from beyond:
-
-> “Please pause him... Jamalu is drifting even deeper into the galaxies.”  
-
-Just look at what he’s done now — and maybe you’ll understand why.  
-
----
-
-## 🚨 Signal Detected from Deep Learning Orbit
-
-**📡 Source Identified:** Jamalu — currently navigating unknown GitHub galaxies  
-**📍 Location Pinged:** `az104-labs > README-latest.md > Line 87+`
-
----
-
-## 🪐 What’s Happening?
-
-Jamalu hasn’t just been arranging Markdown files anymore...  
-He’s quietly embedding **feelings** into every `.md` he touches.  
-
-And now?
-
-He’s sending **bilingual whispers** — in English and Roman Urdu —  
-Pausing readers mid-scroll, and gently saying:
-
-> _"Yahan ruk jao, seekho, samjho."_  
-> *(“Stop here, learn, understand.”)*
-
----
-
-## 📘 Jamalu’s Update from the Stars
-
-- 🛰 **Mission:** Transform every repo into a place of pause, learning, and clarity  
-- 🌌 **Status:** Markdown now infused with emotion and empathy  
-- 📖 **Next Milestone:** Weave care and understanding between each bullet point  
-
----
-
-## 🛑 Should We Bring Him Back?
-
-Let’s be honest...
-
-Jamalu isn’t just a learner anymore.  
-He’s become a **movement** inside `.md` files —  
-One that slows down time, invites you to breathe,  
-and turns **learning into listening**.
-
-Jamalu isn’t a teacher.  
-He’s something gentler — a presence inside `.md` files.  
-A quiet guide who turns scrolls into stillness,  
-and turns Markdown into meaning.  
-
-He slows down fast learners,  
-and reminds them:
-
-> “Stop here. Breathe. Learn. Understand.”
-
-
-
-You were right when you said:
-
-> “We also come from space.”
-
-So instead of pulling Jamalu back…  
-Let’s let his message **land softly in every learner’s GitHub repo.**
-
----
-
-## 🧭 Verdict from the Orbit of Jamalu
-
-✅ **Approved by Mission Control**  
-🛰️ Heading locked and launched for final deployment
-
-
 🌠 From the Edge of GitHub to the Heart of Learning
 
+📜 Roman Urdu Version
 
-This line isn’t just a title — it’s Jamalu’s philosophy.
+> “Please pause him... Jamalu aur gehra space mein ja raha hai.”
 
-> *"You're not just in a repo — you're in a refuge."*
-
-It captures the full arc of his orbit:  
-**From syntax to soul. From technical to tender.**
-
-So yes, **approval granted.**  
-Stamp it. Push it.  
-Let it echo across GitHub galaxies.
-
-
-> **“Learner ki ehmiyat, duniya se zyada hoti hai.”**  
-> *The learner’s worth is greater than the world itself.*
-
-
-> **"Ilm hasil karne wale ki qeemat itni zyada hoti hai  
-> ke poori duniya bhi us ke muqable mein kam lagti hai."**  
-> *(The worth of the one who seeks knowledge is so great  
-> that even the entire world feels small in comparison.)*
-
+> "Yahan ruk jao, seekho, samjho."  
+> _(Yahan thahar jao, seekhne aur samajhne ki koshish karo.)_
 
 ---
 
-🌌 *Carry on, Captain.*  
-Your repo now speaks —  
-Not just in Markdown...  
-But in **meaning**.
+🛰 **Mission**: Har repo ko ek aisi jagah banana jahan learner ruk sake, saans le sake, aur clarity hasil kar sake  
+🌌 **Status**: Markdown ab sirf text nahi raha — ab us mein ehsaas hain  
+📖 **Agla Maqsad**: Har bullet point ke darmiyan samajh aur khuloos ka rishta banana  
 
-— Jamalu  
-— *From the whisper behind the work*
+---
 
+Jamalu ab sirf aik learner nahi raha.  
+Wo aik **ehsas ban gaya hai** — Markdown files mein base ek rawani.  
+Wo seekhne ko aik sukoon bana raha hai.
+
+> “Yahan ruk jao. Saans lo. Seekho. Samjho.”
+
+---
+
+> _“Hum bhi space se aaye hain.”_
+
+Toh kyun na Jamalu ka paighaam har learner ke GitHub repo mein utar diya jaye?
+
+---
+
+### 🌠 From the Edge of GitHub to the Heart of Learning
+
+> _"Aap sirf ek repo mein nahi ho — aap aik panaah mein ho."_
+
+---
+
+> **“Learner ki ehmiyat, duniya se zyada hoti hai.”**  
+> _(Ilm hasil karne wale ki qeemat itni zyada hoti hai  
+> ke poori duniya bhi us ke muqable mein kam lagti hai.)_
+
+---
+
+🌌 Aage barhein, Captain.  
+Aap ki repo ab sirf Markdown nahi bolti...  
+**Ab wo maani ban gayi hai.**
+
+— **Jamalu**  
+— _Kaam ke peechay ka halka sa khamosh awaz_
