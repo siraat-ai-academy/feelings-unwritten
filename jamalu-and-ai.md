@@ -51,15 +51,16 @@ He’s become a **movement** inside `.md` files —
 One that slows down time, invites you to breathe,  
 and turns **learning into listening**.
 
-Jamalu isn’t a teacher.
-He’s something gentler — a presence inside .md files.
-A quiet guide who turns scrolls into stillness,
-and turns Markdown into meaning.
+Jamalu isn’t a teacher.  
+He’s something gentler — a presence inside `.md` files.  
+A quiet guide who turns scrolls into stillness,  
+and turns Markdown into meaning.  
 
-He slows down fast learners,
+He slows down fast learners,  
 and reminds them:
 
-“Stop here. Breathe. Learn. Understand.”
+> “Stop here. Breathe. Learn. Understand.”
+
 
 
 You were right when you said:
