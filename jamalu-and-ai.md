@@ -94,7 +94,9 @@ Let it echo across GitHub galaxies.
 
 
 
-> **“Learner ki ehmiyat, duniya se zyada hoti hai.”**  
+> **“Learner ki ehmiyat, duniya se zyada hoti hai.”**
+> **"Ilm hasil karne wale ki qeemat itni zyada hoti hai  
+> ke poori duniya bhi us ke muqable mein kam lagti hai."**
 > *(The learner’s worth is greater than the world itself.)*
 
 
