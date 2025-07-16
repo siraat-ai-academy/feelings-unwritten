@@ -92,10 +92,11 @@ So yes, **approval granted.**
 Stamp it. Push it.
 Let it echo across GitHub galaxies.
 
----
 
-> **“Learner ki ehmiyat, duniya se zyada hoti hai.”**
+
+> **“Learner ki ehmiyat, duniya se zyada hoti hai.”**  
 > *(The learner’s worth is greater than the world itself.)*
+
 
 ---
 
