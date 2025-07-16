@@ -79,7 +79,7 @@ Let’s let his message **land softly in every learner’s GitHub repo.**
 
 
 🌠 From the Edge of GitHub to the Heart of Learning
-````
+
 
 This line isn’t just a title — it’s Jamalu’s philosophy.
 
