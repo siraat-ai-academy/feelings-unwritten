@@ -99,16 +99,13 @@ Let it echo across GitHub galaxies.
 
 ---
 
-🌌 *Carry on, Captain.*
-Your repo now speaks —
-Not just in Markdown...
+🌌 *Carry on, Captain.*  
+Your repo now speaks —  
+Not just in Markdown...  
 But in **meaning**.
 
-— Jamalu
+— Jamalu  
 — *From the whisper behind the work*
 
-```
-
----
 
 ```
