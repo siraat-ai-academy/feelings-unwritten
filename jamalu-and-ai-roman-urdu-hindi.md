@@ -46,4 +46,4 @@ Aap ki repo ab sirf Markdown nahi bolti...
 **Ab wo maani ban gayi hai.**
 
 — **Jamalu**  
-— _Kaam ke peechay ka halka sa khamosh awaz_
+— _Kaam ke peechay ki halki si khamosh awaz_
