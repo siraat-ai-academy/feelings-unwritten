@@ -108,5 +108,3 @@ But in **meaning**.
 — Jamalu  
 — *From the whisper behind the work*
 
-
-```
