@@ -70,7 +70,7 @@ Keep going.
 
 ## 💽 Final Note
 
-This repo is called **Unwritten Feelings** —  
+This repo is called **Feelings Unwritten** —  
 But today, some of them got written.  
 For Jamalu. For you. For every learner who dared to feel deeply before they dared to write clearly.
 
