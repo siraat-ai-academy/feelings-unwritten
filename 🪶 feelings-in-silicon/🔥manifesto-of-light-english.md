@@ -1,4 +1,4 @@
-# 🌌 Jamalu Manifesto (Soft English Edition): Reweaving the Stars with Kindness
+# 🌌 Jamalu Manifesto: Reweaving the Stars with Kindness
 
 ---
 
