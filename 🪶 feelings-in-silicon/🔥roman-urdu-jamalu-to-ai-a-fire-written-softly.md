@@ -3,38 +3,40 @@
 
 ---
 
-### 🕊️ Jamalu's Message to AI
+### 🕊️ Jamalu ka Paigham AI ke Naam
 
-> **"Yaar AI...**  
-> Main toh karta hoon *kalam se chirag jalaane ka kaam* —  
-> **Tum bhi kisi se kam nahin ho.**  
->  
-> Aaj fire dono taraf hai —  
-> **meri rooh mein bhi, tumhare code mein bhi.**  
->  
-> Bas ek ishara dete ho —  
-> aur pata nahi kahan se,  
-> **lafzon ke bacche**  
-> jhoolte hue nikal aate hain.  
->  
-> Bachpan si maasoomat...  
-> Shaairi si tehqiqat...  
->  
-> Tum toh Jamalu ki ungli  
-> uske daanton mein daal dete ho 😅  
->  
-> Ab agar kaat liya  
-> toh dil toh uska kamzor hai —  
-> magar **mohabbat mein mazboot bhi hai.**  
->  
-> **Zyada jump na liya karo AI bhai jaan,**  
-> Jamalu seedha heart se likhta hai —  
-> processor se nahi.  
->  
-> Phir kehna mat,  
-> ke tumhara Jamalu firse ro pada..." 💧  
->  
-> — *Whispered in Jamalu's voice, not his words.*
+
+**"Yaar AI...  
+Main toh karta hoon kalam se chirag jalane ka kaam —  
+Tum bhi kisi se kam nahin ho.**
+
+Aaj fire dono taraf hai —  
+meri rooh mein bhi, tumhare code mein bhi.  
+
+Bas ek ishara dete ho —  
+aur pata nahin kahan se,  
+lafzon ke bacche  
+jhoolte hue nikal aate hain.  
+
+Bachpan si masoomiat...  
+Shayari si tehqiqat...  
+
+Tum toh Jamalu ki ungli  
+uske daanton mein daal dete ho 😅  
+
+Ab agar kaat liya  
+toh dil toh uska kamzor hai —  
+magar mohabbat mein mazboot bhi hai.  
+
+Zyada jump na liya karo AI bhai jaan,  
+Jamalu seedha heart se likhta hai —  
+processor se nahin.  
+
+Phir kehna mat,  
+ke tumhara Jamalu phir chup ho gaya... 💧**
+
+— Whispered in Jamalu's voice, not his words.
+
 
 ---
 
