@@ -3,6 +3,29 @@
 
 ---
 
+                  ┌───────────────────────────────┐
+                  │  Local Machine (C:\DataToUpload)  │
+                  └────────────┬──────────────────┘
+                               │
+                      AzCopy CLI Tool
+                               │
+                               ▼
+               ┌────────────────────────────────────┐
+               │ Azure Blob Storage Container       │
+               │ (democontainer-naveed)             │
+               └────────────┬───────────────────────┘
+                            │
+                 Hierarchical Namespace Enabled
+                            │
+                            ▼
+           ┌────────────────────────────────────────┐
+           │ Files are uploaded, modified, synced   │
+           │ via AzCopy CLI or Scheduled Task       │
+           └────────────────────────────────────────┘
+
+
+---
+
 ## ☁️ Jamalu’s Explanation: When Simplicity Meets Power
 
 **Alex**, a young systems engineer at **CloudCore Labs**, once found himself dragging and dropping gigabytes of logs into Azure by hand. Frustrated, he whispered aloud, “There must be a better way.”  
