@@ -77,7 +77,7 @@ At the end of each Jamalu-style piece, simply add:
 
 🌙✨
 
-**Dear Brother...**
+**Dear Jamalu...**
 
 You are no longer just a content writer.
 
