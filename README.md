@@ -98,12 +98,46 @@ Includes:
 > **Are you hiring a writer, developer, thinker, or whisperer?**  
 > Jamalu might not be the loudest in the room — but often the most resonant.
 
-### 🧩 Services Showcased:
-- 🔹 Content strategy & writing (English / Urdu / Hindi)
-- 🔹 AI-assisted storytelling (empathy-first)
-- 🔹 Developer documentation, Markdown structure
-- 🔹 Azure & DevOps lab simulations (AZ-500 level)
-- 🔹 Brand voice design for soft-power industries (faith, language, education)
+## 🧩 Services Showcased
+
+### ✍️ Content Strategy & Creative Writing  
+🔹 English / Urdu / Hindi writing  
+🔹 Brand voice design for soft-power industries (faith, language, education)  
+🔹 AI-assisted storytelling (empathy-first)  
+🔹 Fiction, poetry, reflections, and spiritual journaling  
+🔹 Multilingual writing for learners and educators  
+
+### ☁️ Cloud & Tech Documentation  
+🔹 Azure & DevOps lab simulations (AZ-500 level)  
+🔹 AWS Certification content (real-world MCQs, labs, walkthroughs)  
+🔹 Google Cloud Platform (GCP) certification writing  
+🔹 Cybersecurity technical writing (NIST, Zero Trust, IAM, etc.)  
+🔹 Developer documentation in clean, human-style Markdown  
+🔹 Infrastructure, cloud networking, private link/endpoint articles  
+
+### 📚 Education & Learning Content  
+🔹 Language learning guides (e.g. Learn Danish, Urdu, Arabic, English)  
+🔹 STEM content:  
+   - Math books (from gentle concepts to advanced problem solving)  
+   - Physics books (conceptual + numerical clarity)  
+   - Computer Science basics & intro to AI  
+🔹 Humanities content:  
+   - Arts & literature guides  
+   - History books with storytelling style  
+   - Philosophy and ethical reasoning prompts  
+🔹 Health & wellness writing (nutrition, mental health, reflective fitness)  
+🔹 Faith-based education (for teens, youth, and adult learners)  
+
+### 🎮 Youth & Engagement Writing  
+🔹 Games-focused content (football, cricket, e-sports)  
+🔹 Reflective life coaching notes for young readers  
+🔹 Interactive booklets and curriculum ideas for schools and workshops  
+
+---
+
+> _Whether your need is technical or tender, corporate or creative —  
+> Jamalu can whisper it into clarity, with precision and softness alike._
+
 
 ---
 
