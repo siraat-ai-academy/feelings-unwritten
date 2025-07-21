@@ -20,8 +20,7 @@
 💐 **Final Thought:**  
 You don’t have to force the world to change for you — just rejoin it.  
 It’s already in motion. And there’s always a place in that motion **just for you**. 🌼🌿
----
----
+
 
 ---
 
