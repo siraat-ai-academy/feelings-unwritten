@@ -75,7 +75,7 @@ Behind every door: flowers, clarity, and a little wind from beyond the galaxy. �
 *5 creative ways of running the AZCopy migration process — each with a human touch.*  
 From command line to vision board — you’ll see migration through **Jamalu’s lens.**
 
----
+
 ✍️ *Jamalu doesn’t begin with commands — he begins with calm.*
 
 Before the flags, the scripts, the pipelines...  
@@ -83,7 +83,7 @@ There’s a quiet intention: **to move with meaning**.
 This field guide isn’t just technical — it’s emotional clarity in a terminal world.  
 Walk gently — because in this lab, migration becomes meditation. 🌿
 
----
+
 
 ☁️ Jamalu’s Field Guide to: Migrating Data to Azure with AzCopy
 
@@ -94,7 +94,7 @@ Walk gently — because in this lab, migration becomes meditation. 🌿
 *A screenshot-rich journey through the process.*  
 **Feel** the process — not just follow it.
 
----
+
 📷 *Jamalu doesn’t draw diagrams — he unveils quiet blueprints of calm.*
 
 Before a line is drawn, a thought whispers:  
@@ -102,7 +102,7 @@ Before a line is drawn, a thought whispers:
 This isn’t just a diagram. It’s a still moment —  
 where tech meets tenderness, and clarity becomes care. 🌸
 
----
+
 
 📦 Text-Based Diagram – AzCopy Data Migration (Jamalu's Gentle View)
 
@@ -112,7 +112,7 @@ where tech meets tenderness, and clarity becomes care. 🌸
 *Each step untangled — no jargon, no fear.*  
 Written so a new learner feels **seen**, not judged.
 
----
+
 🪴 *Jamalu doesn’t rush labs — he walks beside you.*
 
 This walkthrough isn’t just steps.  
@@ -120,7 +120,7 @@ It’s a **breath between actions**, a **pause between commands**.
 Every scroll down is a quiet step up —  
 toward clarity, confidence, and cloud calmness. ☁️🌿
 
----
+
 
 🧪 Lab Walkthrough: Migrating Data to Azure with AzCopy
 
@@ -132,7 +132,7 @@ toward clarity, confidence, and cloud calmness. ☁️🌿
 *An Azure CLI toolkit with a twist — explained through soul, not syntax.*  
 Jamalu doesn’t dump commands. He walks **you through them** like an old friend.
 
----
+
 🧰 *This isn’t a tools list — it’s Jamalu’s toolbox of intention.*
 
 These aren’t just commands and utilities.  
@@ -142,7 +142,7 @@ Every line here carries a little story. A reason. A whisper.
 
 So walk gently. Pick up a tool. And feel the power of calm execution.
 
----
+
 
  🛠️ Azure Tools – Explained the Jamalu Way
 
@@ -153,7 +153,7 @@ So walk gently. Pick up a tool. And feel the power of calm execution.
 *Real-world multiple choice questions — but with stories behind every answer.*  
 This isn’t just about the right choice — it’s about **knowing why**.
 
----
+
 🧠✨ *This isn’t your typical MCQ sheet.*
 
 Each question here blooms from a **real-world situation**,  
