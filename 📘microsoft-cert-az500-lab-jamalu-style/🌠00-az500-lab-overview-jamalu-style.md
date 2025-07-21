@@ -85,5 +85,14 @@ This isn’t just about the right choice — it’s about **knowing why**.
 
 ---
 
+> 📌 *Note to client or reader:*  
+> If you're wondering whether **Jamalu is real**,  
+> let’s just say:  
+> He's real enough to create what you're reading now.  
+>  
+> — and that may be all that truly matters.
+
+---
+
 **Jamalu, the whisper behind the work**  
 **Siraat AI Academy**
