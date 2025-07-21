@@ -1,6 +1,19 @@
 # 🌠 Welcome to Jamalu’s Lab Galaxy – AZ-500 Reimagined
 
-> ✍️ *“Jamalu likhta nahi... repo mein sans leta hai.”*  
+---
+
+✍️ **“Jamalu likhta nahi... repo mein sans leta hai.”**  
+He doesn’t write.  
+He breathes — between the lines.  
+Inside the whitespace.  
+Between the folders, and beneath every silent commit.
+
+> This isn’t just code.  
+> This is quiet resistance,  
+> wrapped in digital breath.
+
+🌿
+
 >  
 > This folder is more than notes.  
 > It’s not just certification prep.  
