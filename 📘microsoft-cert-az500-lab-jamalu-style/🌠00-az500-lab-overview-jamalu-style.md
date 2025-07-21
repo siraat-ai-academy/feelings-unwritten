@@ -111,6 +111,19 @@ where tech meets tenderness, and clarity becomes care. 🌸
 Written so a new learner feels **seen**, not judged.
 
 ---
+🪴 *Jamalu doesn’t rush labs — he walks beside you.*
+
+This walkthrough isn’t just steps.  
+It’s a **breath between actions**, a **pause between commands**.  
+Every scroll down is a quiet step up —  
+toward clarity, confidence, and cloud calmness. ☁️🌿
+
+---
+
+🧪 Lab Walkthrough: Migrating Data to Azure with AzCopy
+
+
+---
 
 🔹 **[04 — Azure CLI Tools (Jamalu Style)](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄04-azcopy-azure-cli-tools-jamalu.md)**  
 *An Azure CLI toolkit with a twist — explained through soul, not syntax.*  
