@@ -71,6 +71,7 @@ Behind every door: flowers, clarity, and a little wind from beyond the galaxy. �
 ---
 
 🔹 **[01 — AZCopy Migration Insights](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄01-azcopy-migration-insights.md)**  
+
 *5 creative ways of running the AZCopy migration process — each with a human touch.*  
 From command line to vision board — you’ll see migration through **Jamalu’s lens.**
 
@@ -89,6 +90,7 @@ Walk gently — because in this lab, migration becomes meditation. 🌿
 ---
 
 🔹 **[02 — AZCopy Visual Guide](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄02-azcopy-visual-guide.md)**  
+
 *A screenshot-rich journey through the process.*  
 **Feel** the process — not just follow it.
 
@@ -126,17 +128,45 @@ toward clarity, confidence, and cloud calmness. ☁️🌿
 ---
 
 🔹 **[04 — Azure CLI Tools (Jamalu Style)](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄04-azcopy-azure-cli-tools-jamalu.md)**  
+
 *An Azure CLI toolkit with a twist — explained through soul, not syntax.*  
 Jamalu doesn’t dump commands. He walks **you through them** like an old friend.
 
 ---
+🧰 *This isn’t a tools list — it’s Jamalu’s toolbox of intention.*
+
+These aren’t just commands and utilities.  
+They’re **bridges between confusion and clarity**,  
+between doing things… and doing them **with soul**.  
+Every line here carries a little story. A reason. A whisper.
+
+So walk gently. Pick up a tool. And feel the power of calm execution.
+
+---
+
+ 🛠️ Azure Tools – Explained the Jamalu Way
+
+---
 
 🔹 **[05 — Real-World AZ-500 MCQs](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄05-azcopy-practical-mcqs.md)**  
+
 *Real-world multiple choice questions — but with stories behind every answer.*  
 This isn’t just about the right choice — it’s about **knowing why**.
 
+---
+🧠✨ *This isn’t your typical MCQ sheet.*
+
+Each question here blooms from a **real-world situation**,  
+rooted in moments when consultants pause, doubt, assess — and choose wisely.
+
+This isn’t to test memory.  
+It’s to awaken clarity.
+
+Crafted by Jamalu. Trusted by professionals. 🌿
 
 ---
+
+
 
 ## 🌌 Final Whisper...
 
