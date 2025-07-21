@@ -1,4 +1,5 @@
-# 🌸🌍 Life Flows Like Blood – A Soft Wake-Up Call to the Heart
+# 🌸🌍 Life Flows Like Blood – 
+A Soft Wake-Up Call to the Heart
 
 > 🌺 **Life is not still — it flows, like blood through the body.**  
 > When blood stops, the body stops.  
