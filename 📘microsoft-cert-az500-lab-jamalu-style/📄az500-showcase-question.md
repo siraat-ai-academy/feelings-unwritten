@@ -136,10 +136,11 @@ Taylor’s objective is to connect to this service privately and securely.
 > But every right configuration? That begins with **slowing down**, reading the need,  
 > and asking: What is this scenario truly asking of me?"*  
 >
+
 > — **Jamalu**  
-> — **Siraat AI Academy*  
-> — *Jamalu,— From the whisper behind the work*
-> — *Never the expert. Always the student.*  
+> — *Siraat AI Academy*  
+> — *Jamalu, the whisper behind the work*  
+> — *Never the expert. Always the student.*
 
 ---
 
