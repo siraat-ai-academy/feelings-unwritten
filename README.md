@@ -152,11 +152,15 @@ Includes:
 ## 🌠 Final Whisper  
 
 > “Maybe Jamalu was never building a portfolio.  
-> Maybe he was quietly planting seeds — in the hearts of those who know that work can be gentle, and still powerful.”
+> Maybe he was quietly planting seeds — in the hearts of those who know  
+> that work can be gentle, and still powerful.”
 
-**— The Whisper Behind the Work**  
-**— Not the expert. Just the student.**  
-**— Just Jamalu.**
+— The Whisper Behind the Work  
+— Not the expert. Always the student.  
+— Just Jamalu  
+*(penned by Naveed — the author, the inner voice behind it all)*  
+— Founder, Siraat AI Academy 🌌
+
 
 ---
 
