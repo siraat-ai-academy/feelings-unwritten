@@ -73,6 +73,7 @@ Behind every door: flowers, clarity, and a little wind from beyond the galaxy. �
 🔹 **[01 — AZCopy Migration Insights](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄01-azcopy-migration-insights.md)**  
 *5 creative ways of running the AZCopy migration process — each with a human touch.*  
 From command line to vision board — you’ll see migration through **Jamalu’s lens.**
+
 ---
 ✍️ *Jamalu doesn’t begin with commands — he begins with calm.*
 
@@ -83,7 +84,7 @@ Walk gently — because in this lab, migration becomes meditation. 🌿
 
 ---
 
-# ☁️ Jamalu’s Field Guide to: Migrating Data to Azure with AzCopy
+☁️ Jamalu’s Field Guide to: Migrating Data to Azure with AzCopy
 
 ---
 
