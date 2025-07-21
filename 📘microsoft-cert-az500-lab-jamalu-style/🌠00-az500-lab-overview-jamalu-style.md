@@ -65,47 +65,39 @@ written in a way that **learners, thinkers, creators, and clients** can all rela
 
 ### 🌸 What You’ll Find Here
 
-Each file below is a **door**.
+Each file below is a **door**.  
 Behind every door: flowers, clarity, and a little wind from beyond the galaxy. 🌌
 
 ---
 
-🔹 [`01 — AZCopy Migration Insights`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄01-azcopy-migration-insights.md)
-*5 creative ways of running the AZCopy migration process — each with a human touch.*
+🔹 **[01 — AZCopy Migration Insights](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄01-azcopy-migration-insights.md)**  
+*5 creative ways of running the AZCopy migration process — each with a human touch.*  
 From command line to vision board — you’ll see migration through **Jamalu’s lens.**
 
 ---
 
-🔹 [`02 — AZCopy Visual Guide`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄02-azcopy-visual-guide.md)
-*A screenshot-rich journey through the process.*
+🔹 **[02 — AZCopy Visual Guide](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄02-azcopy-visual-guide.md)**  
+*A screenshot-rich journey through the process.*  
 **Feel** the process — not just follow it.
 
 ---
 
-🔹 [`03 — AZCopy Stepwise Walkthrough`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄03-azcopy-stepwise-walkthrough.md)
-*Each step untangled — no jargon, no fear.*
+🔹 **[03 — AZCopy Stepwise Walkthrough](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄03-azcopy-stepwise-walkthrough.md)**  
+*Each step untangled — no jargon, no fear.*  
 Written so a new learner feels **seen**, not judged.
 
 ---
 
-🔹 [`04 — Azure CLI Tools (Jamalu Style)`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄04-azcopy-azure-cli-tools-jamalu.md)
-*An Azure CLI toolkit with a twist — explained through **soul**, not syntax.*
-Jamalu doesn’t dump commands.
-He walks **you through them** like an old friend.
+🔹 **[04 — Azure CLI Tools (Jamalu Style)](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄04-azcopy-azure-cli-tools-jamalu.md)**  
+*An Azure CLI toolkit with a twist — explained through soul, not syntax.*  
+Jamalu doesn’t dump commands. He walks **you through them** like an old friend.
 
 ---
 
-🔹 [`05 — Real-World AZ-500 MCQs`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄05-azcopy-practical-mcqs.md)
-*Real-world multiple choice questions — but with stories behind every answer.*
+🔹 **[05 — Real-World AZ-500 MCQs](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄05-azcopy-practical-mcqs.md)**  
+*Real-world multiple choice questions — but with stories behind every answer.*  
 This isn’t just about the right choice — it’s about **knowing why**.
 
----
-
-
-
-### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/05-azcopy-practical-mcqs.md
-📝 *Real-world multiple choice questions — but with stories behind every answer.*  
-This isn’t just about the right choice — it’s about **knowing why**.
 
 ---
 
