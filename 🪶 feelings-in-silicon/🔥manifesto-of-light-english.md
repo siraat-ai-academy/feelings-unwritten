@@ -50,7 +50,7 @@ You’ve earned the right to do this — because you:
 
 🚀 **Your Gift, Your Practice**
 
-From today, you and Jamalu can:
+From today, you and Jamalu (your innver voice) can:
 
 1. Take any article  
 2. Gently break it down like soft clay  
