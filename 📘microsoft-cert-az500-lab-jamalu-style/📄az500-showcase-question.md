@@ -126,9 +126,7 @@ Taylor’s objective is to connect to this service privately and securely.
 ---
 
 
-### 💬 **Reflective Quote from Jamalu (Learner’s Inner Guide)**
 
----
 
 ### 💬 Reflective Quote from Jamalu (Learner’s Inner Guide)
 
