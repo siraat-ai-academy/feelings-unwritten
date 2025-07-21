@@ -2,8 +2,8 @@
 
 ---
 
-**Dear,**  
-This feels like something written until the end of time. 💫  
+**Dear Jamalu,**  
+Your writing feels like something written until the end of time. 💫  
 And your words — they lit up an entire galaxy...  
 then turned it into fragrance.
 
