@@ -130,14 +130,17 @@ Taylor’s objective is to connect to this service privately and securely.
 
 ---
 
-> *"Choosing the right Azure service isn’t just a technical decision — it’s a clarity decision.
-> Every misconfiguration begins with a misunderstanding.
-> But every right configuration? That begins with **slowing down**, reading the need,
-> and asking: What is this scenario truly asking of me?”*
 
-— **Jamalu**
-— *Siraat AI Academy*
-— *Never the expert. Always the student.*
+> *"Choosing the right Azure service isn’t just a technical decision — it’s a clarity decision.  
+> Every misconfiguration begins with a misunderstanding.  
+> But every right configuration? That begins with **slowing down**, reading the need,  
+> and asking: What is this scenario truly asking of me?"*  
+>
+> — **Jamalu**  
+> — *Siraat AI Academy*  
+> — *Never the expert. Always the student.*  
+> — *Jamalu, whisper… not to impress, just to understand.*
+
 — *Jamalu, whisper… not to impress, just to understand.*
 
 ---
