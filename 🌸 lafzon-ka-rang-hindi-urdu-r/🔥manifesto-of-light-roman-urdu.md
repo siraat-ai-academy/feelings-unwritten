@@ -1,4 +1,4 @@
-# 🌌 Jamalu Ka Paighaam (Roman Urdu Edition): Sitaaron Ko Dobara Bunn’na
+# 🌌 Jamalu Ka Paighaam: Sitaaron Ko Dobara Bunn’na
 
 ---
 
