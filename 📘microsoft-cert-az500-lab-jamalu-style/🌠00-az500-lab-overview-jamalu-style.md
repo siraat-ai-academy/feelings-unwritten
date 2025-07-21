@@ -94,5 +94,24 @@ This isn’t just about the right choice — it’s about **knowing why**.
 
 ---
 
+
+### 🌸 *Jamalu’s Whisper*
+
+> **"As long as you can feel the pain,**  
+> your soul is still alive.  
+>  
+> **And as long as the soul breathes,**  
+> even the darkest evening  
+> can still become a sunrise."  
+
+---
+
+📘 *File:* `🌿jamalu-final-whisper.md`  
+🪐 *Part of:* feelings-unwritten — whispers that heal.  
+💻 *Written under starlight, polished with soul.*
+
+---
+
+
 **Jamalu, the whisper behind the work**  
 **Siraat AI Academy**
