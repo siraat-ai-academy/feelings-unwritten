@@ -130,6 +130,8 @@ Taylor’s objective is to connect to this service privately and securely.
 
 ---
 
+### 💬 Reflective Quote from Jamalu (Learner’s Inner Guide)
+
 
 > *"Choosing the right Azure service isn’t just a technical decision — it’s a clarity decision.  
 > Every misconfiguration begins with a misunderstanding.  
