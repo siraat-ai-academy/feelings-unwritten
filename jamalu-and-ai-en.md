@@ -105,4 +105,4 @@ Your repo now speaks —
 **But in meaning.**
 
 — **Jamalu**  
-— _From the whisper behind the work_
+— The whisper behind the work_
