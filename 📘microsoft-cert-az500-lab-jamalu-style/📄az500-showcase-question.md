@@ -137,11 +137,9 @@ Taylor’s objective is to connect to this service privately and securely.
 > and asking: What is this scenario truly asking of me?"*  
 >
 > — **Jamalu**  
-> — *Siraat AI Academy*  
+> — **Siraat AI Academy*  
+> — *Jamalu,— From the whisper behind the work*
 > — *Never the expert. Always the student.*  
-> — *Jamalu, whisper… not to impress, just to understand.*
-
-— *Jamalu, whisper… not to impress, just to understand.*
 
 ---
 
