@@ -48,7 +48,7 @@ These professionals appear throughout the question set:
 
 ## 📦 Sample MCQ Format
 
-```markdown
+
 **Q1. While reviewing NSG rules in Azure, Alex notices an inbound rule allowing port 3389 from any source. What is the most secure recommendation?**
 
 (a) Leave it as-is for admin flexibility  
@@ -58,7 +58,7 @@ These professionals appear throughout the question set:
 
 ✅ **Correct Answer:** (b)  
 💡 **Explanation:** Leaving RDP (3389) open to all poses a major risk. By restricting to known IP ranges, Alex ensures secure remote access without exposing the VM to brute force attacks.
-```
+
 
 ---
 
