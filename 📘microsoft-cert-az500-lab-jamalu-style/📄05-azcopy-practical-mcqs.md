@@ -62,12 +62,6 @@ These professionals appear throughout the question set:
 
 ---
 
-## 📂 File Use
-
-This `.md` file can be used directly inside the repo:  
-**`/mcqs/az500-secure-access-realworld.md`**
-
----
 
 ## ✍️ Quote to Close
 
