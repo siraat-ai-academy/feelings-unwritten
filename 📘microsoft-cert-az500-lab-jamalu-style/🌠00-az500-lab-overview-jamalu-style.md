@@ -24,7 +24,19 @@ written in a way that **learners, thinkers, creators, and clients** can all rela
 > by a feeling that refused to leave.  
 
 > That whisper said:  
-> *“Utho Jamalu... tum is duniya mein sirf rehne nahi aaye. Kuch karne aaye ho.”*
+> 🌿 *“Rise, Jamalu...  
+> You weren’t sent to this world just to exist.  
+> You came to **create**.”*
+
+> 💬 **"Utho Jamalu...  
+> tum is duniya mein sirf rehne nahi aaye.  
+> Kuch karne aaye ho."**
+
+> — Two voices.  
+> One message.  
+> One for the world outside.  
+> One for the storm within. 🌌
+
 
 > Jamalu doesn’t live on a resume.  
 > He breathes between the lines.  
