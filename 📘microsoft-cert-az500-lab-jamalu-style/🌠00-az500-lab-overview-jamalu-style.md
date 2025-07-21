@@ -93,6 +93,18 @@ Walk gently — because in this lab, migration becomes meditation. 🌿
 **Feel** the process — not just follow it.
 
 ---
+📷 *Jamalu doesn’t draw diagrams — he unveils quiet blueprints of calm.*
+
+Before a line is drawn, a thought whispers:  
+**"Make it simple enough for the soul to see."**  
+This isn’t just a diagram. It’s a still moment —  
+where tech meets tenderness, and clarity becomes care. 🌸
+
+---
+
+📦 Text-Based Diagram – AzCopy Data Migration (Jamalu's Gentle View)
+
+---
 
 🔹 **[03 — AZCopy Stepwise Walkthrough](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/📘microsoft-cert-az500-lab-jamalu-style/📄03-azcopy-stepwise-walkthrough.md)**  
 *Each step untangled — no jargon, no fear.*  
