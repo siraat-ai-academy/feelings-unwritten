@@ -69,7 +69,7 @@ Behind every door: flowers, clarity, and a little wind from beyond the glaxy. �
 
 ---
 
-### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/01-azcopy-migration-insights.md  
+### 🔹 [https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/01-azcopy-migration-insights.md]  
 🪄 *5 creative ways of running the AZCopy migration process – each with a human touch.*  
 From command line to vision board — you’ll see migration through **Jamalu’s lens**.
 
