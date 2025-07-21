@@ -69,32 +69,32 @@ Behind every door: flowers, clarity, and a little wind from beyond the glaxy. �
 
 ---
 
-### 🔹 [`01-azcopy-migration-insights`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/%F0%9F%93%98microsoft-cert-az500-lab-jamalu-style/%F0%9F%93%8401-azcopy-migration-insights.md)  
+### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/01-azcopy-migration-insights.md  
 🪄 *5 creative ways of running the AZCopy migration process – each with a human touch.*  
 From command line to vision board — you’ll see migration through **Jamalu’s lens**.
 
 ---
 
-### 🔹 [`02-azcopy-visual-guide`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/%F0%9F%93%98microsoft-cert-az500-lab-jamalu-style/%F0%9F%97%BA02-azcopy-visual-guide.md)  
+### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/02-azcopy-visual-guide.md  
 📊 *A screenshot-rich journey through the process.*  
 **Feel the process** — not just follow it.
 
 ---
 
-### 🔹 [`03-azcopy-stepwise-walkthrough`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/%F0%9F%93%98microsoft-cert-az500-lab-jamalu-style/%F0%9F%A7%AD%2003-azcopy-stepwise-walkthrough.md)  
+### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/03-azcopy-stepwise-walkthrough.md
 🧭 *Each step untangled — no jargon, no fear.*  
 Written so a new learner feels **seen, not judged**.
 
 ---
 
-### 🔹 [`04-azure-cli-tools-jamalu`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/%F0%9F%93%98microsoft-cert-az500-lab-jamalu-style/%F0%9F%A7%B0%2004-azure-cli-tools-jamalu.md)  
+### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/04-azcopy-azure-cli-tools-jamalu.md 
 🧰 *An Azure CLI toolkit with a twist — explained through soul, not syntax.*  
 Jamalu doesn't dump commands.  
 He **walks you through** them like an old friend.
 
 ---
 
-### 🔹 [`05-az500-practical-mcqs`](https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/%F0%9F%93%98microsoft-cert-az500-lab-jamalu-style/%F0%9F%93%9D05-az500-practical-mcqs.md)  
+### 🔹 https://github.com/Navid-Ishaq/feelings-unwritten/blob/main/microsoft-cert-az500-lab-jamalu-style/05-azcopy-practical-mcqs.md
 📝 *Real-world multiple choice questions — but with stories behind every answer.*  
 This isn’t just about the right choice — it’s about **knowing why**.
 
