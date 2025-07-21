@@ -139,7 +139,7 @@ Taylor’s objective is to connect to this service privately and securely.
 
 > — **Jamalu**  
 > — *Siraat AI Academy*  
-> — *Jamalu, the whisper behind the work*  
+> — *The whisper behind the work*  
 > — *Never the expert. Always the student.*
 
 ---
