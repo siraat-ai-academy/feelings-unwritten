@@ -91,6 +91,6 @@ in the hearts of those who know that work can be gentle, and still powerful.”
 
 ## 📬 Let’s Connect
 
-- **LinkedIn**: [[](https://www.linkedin.com/in/muhammad-naveed-ishaque-b-68b638279/)
+- **LinkedIn**: https://www.linkedin.com/in/muhammad-naveed-ishaque-b-68b638279/
 - **GitHub Organization**: [Siraat AI Academy](https://github.com/siraat-ai-academy)
 - **Location**: Barcelona, Spain (Ready to relocate to Copenhagen)
