@@ -72,5 +72,5 @@ Explore my work on GitHub under the organization:
 
 ## 📬 Let’s Connect
 - **LinkedIn**: [Muhammad Naveed Ishaque](https://www.linkedin.com/in/muhammad-naveed-ishaque-b-68b638279/)  
-- **GitHub Organization**: Siraat AI Academy  
+- 🔗 Github Repos : [siraatai.com](https://siraatai.com)   
 - **Location**: Barcelona, Spain (Ready to relocate to Copenhagen)
