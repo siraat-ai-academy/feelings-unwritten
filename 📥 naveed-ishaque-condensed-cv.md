@@ -31,7 +31,7 @@ _Completed 1st year successfully. Personal reasons paused final year._
 
 ## 💼 Professional Experience  
 **Finttel Telecommunication (2007–2010)** – Accounts & Data Mgmt  
-**Founder – AapkaUstaad Academy (2010–Present)**  
+**Founder – AL-NOOR Academy (2010–Present)**  
 - Online language + license prep courses  
 - Custom curriculum design & delivery  
 
