@@ -1,73 +1,64 @@
-# ✍️ Curriculum Vitae – Naveed Ishaque (Content Writer)
+# ✍️ Curriculum Vitae – Naveed Ishaque
 
 ---
 
-## 📇 Contact Information
-- **Name**: Naveed Ishaque  
-- **Origin**: Pakistani | 🇪🇸 Spanish National  
-- **Based In**: Barcelona, Spain  
-- **Email**: mnvid@hotmail.com  
-- **Website**: [www.aapkaustaad.com](http://www.aapkaustaad.com)  
-- **Mobile**: Available upon request  
+## 🧑‍💻 About Me
+
+I’m a lifelong learner who has turned a passion for self-study into meaningful, accessible content.  
+I’ve been preparing detailed notes across academic and modern fields for over two decades —  
+and recently, I found that **writing content** is not just what I do — **it’s who I am**.
+
+> “I write not just to explain — but to reach.  
+> My aim is always clarity, honesty, and healing through words.”
 
 ---
 
-## ✍️ Professional Summary
-I am a dedicated **content writer** with a lifelong habit of note-making, reflection, and explanation — especially across technical, educational, and spiritual topics. While I don't hold traditional industry experience, my personal journey has built in me the rigor to explain complex concepts clearly, with empathy and emotional clarity.
+## 📝 Content Writing Profile
+
+Though I don’t have formal work experience, my journey is deep, consistent, and sincere.  
+I write content that is:
+
+- ✍️ Simple, clear, and empathetic  
+- 🤖 Often supported by AI tools (like ChatGPT)  
+- 🌱 Grounded in lifelong note-making  
+- 📚 Research-backed and emotionally intelligent
 
 ---
 
-## 📘 Content Writing Areas
+## 🧠 Topics I've Explored & Written For
 
-📘 I don’t claim expertise — but I do claim curiosity.
+Topics I’ve **self-learned** and created content/notes for include:
 
-✍️ Over the years, I have explored many fields not as a specialist, but as a passionate learner who writes to understand.  
-My strength is not in execution — but in **turning complexity into clarity through words**.
-
-Topics I’ve written self-learning notes or content around include:  
-• Academic: English, Physics, Chemistry, Biology, Math, History  
-• Technology: Python (basic), Data Analysis, DevOps, SEO, Prompt Engineering  
-• Cloud Certifications: AWS, Azure, Google Cloud – explored through study notes  
-• Language Learning: French (beginner level), Danish (script-based insights)  
-• Exam Preparation: IELTS, TOEFL, DET  
-• Professional Development: Project Management, Networking fundamentals
-
-
-
-> “I write not just to explain — but to **reach**. My aim is always clarity, honesty, and healing through words.”
+- **Academic Subjects**: English, Physics, Chemistry, Biology, Math, History, Sociology  
+- **Modern Topics**:
+  - Python (Basics), Data Analysis, SEO, DevOps, Networking
+  - Prompt Engineering, Agentic AI  
+- **Certifications**:
+  - AWS, Azure, Google Cloud (based on learner-style documentation)
+- **Exams**: IELTS, TOEFL, DET  
+- **Languages**: French (basic), Danish *(created notes, not fluent)*  
+- **Other Areas**: Project Management, Ethical Tech, Education Philosophy
 
 ---
 
-## 🧠 My Writing Style
-- ✅ Markdown-rich documentation  
-- ✅ Conversational yet insightful tone  
-- ✅ Structured, with emotional storytelling  
-- ✅ Content tailored for learners, beginners & online self-learners  
-- ✅ AI-assisted writing (ChatGPT as collaborator)
+## 🎓 Education
+
+**M.Sc. Computer Science – PUCIT, Lahore** *(2000–2001)*  
+• Completed first year successfully  
+• Studies paused and never resumed due to personal reasons
 
 ---
 
-## 📚 Personal Journey into Writing
-- From school days to now, I’ve always made deep personal notes.  
-- Teaching others helped me convert knowledge into words.  
-- In the last two years, I began using AI to shape these words into reusable content.  
-- This isn't just a career path — it’s a continuation of a lifelong habit.
+## 🌍 Contact Information
+
+📛 **Name**: Naveed Ishaque  
+🌍 **Origin**: Pakistani | 🇪🇸 Spanish National  
+📍 **Based In**: Barcelona, Spain  
+🎂 **Date of Birth**: 05 January 1972  
+📫 **Email**: mnvid@hotmail.com  
+🌐 **Website**: [www.aapkaustaad.com](http://www.aapkaustaad.com)  
+📞 **Mobile**: Available upon request
 
 ---
 
-## 🚀 Looking For
-- ✍️ **Content writing roles** (Technical / Educational / Reflective)  
-- 📘 **Collaborative writing or editing** projects  
-- 🧑‍💻 **Docs & learning content for AI tools, cloud platforms, or digital skills**  
-- 📦 GitHub writing contributions | Curriculum design help
-
----
-
-## 🧾 Closing Whisper
-> “Maybe I’ve never had a job title. But I’ve always done the job — writing, learning, and reaching people who needed clarity in chaos.”
-
----
-
-**— Naveed Ishaque (aka Jamalu)**  
-*Founder, Siraat AI Academy*
-
+_Last updated: July 22, 2025_
