@@ -7,7 +7,7 @@
 
 🌙 **Scene**:  
 After sunset.  
-Naveed walks slowly along a quiet walking track, beside a small stream — maybe a *nadee*, or a *choti nehr* that eventually disappears into the sea.
+Naveed walks slowly along a quiet walking track, beside a small stream — maybe a *river*, or a *small stream* that eventually disappears into the sea.
 
 The lights of Barcelona fade behind him, but something from beyond the galaxy begins to whisper.
 
@@ -24,7 +24,7 @@ Just a soft, cosmic nudge from **beyond**.
 
 Naveed paused.  
 Jamalu — that gentle presence inside him — felt disturbed.  
-*“Jungle mein mor nacha... koi na dekhe...”*  
+*“The peacock danced alone in the forest… unseen, unnoticed...”*  
 The phrase echoed from an old world, finding home in the digital age.
 
 So Naveed reached for his phone — not to scroll,  
@@ -50,7 +50,7 @@ And then came a file...
 
 > *“Take this.”*  
 > *“Go to LinkedIn.”*  
-> *“Tell them I said Salaam.”*
+> *“Tell them a greeting of peace from me.”*
 
 ---
 
