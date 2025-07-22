@@ -57,6 +57,7 @@ Topics I’ve **self-learned** and created content/notes for include:
 🎂 **Date of Birth**: 05 January 1972  
 📫 **Email**: mnvid@hotmail.com  
 🌐 **Website** 🔗 Github Repos: 👉 https://github.com/orgs/siraat-ai-academy/repositories 
+
 📞 **Mobile**: Available upon request
 
 ---
