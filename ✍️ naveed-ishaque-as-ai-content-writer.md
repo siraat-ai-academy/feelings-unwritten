@@ -71,11 +71,6 @@ Explore my work on GitHub under the organization:
 
 - 2000: MSc Computer Science (1 year completed)  
 - 2007–2010: Admin at Finttel Telecom (MS Office expert)  
-- 2010–2012+: Enrolled in multiple Barcelona universities  
-    - MSc Logic & Mathematics – UB  
-    - MSc Networking – UPC  
-    - MA History of Science – UAB  
-    - MA English – UAB  
 - 2012–Present: Teaching + Content Writing + Community Training  
 - 2023–2025: Moved fully into **AI-powered content writing** with dozens of GitHub projects.
 
