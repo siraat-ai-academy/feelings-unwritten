@@ -1,3 +1,5 @@
+<h1 align="center">📄 Curriculum Vitae – Naveed Ishaque</h1>
+
 # 🌍 Curriculum Vitae – **Naveed Ishaque**
 
 ---
