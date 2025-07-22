@@ -18,15 +18,19 @@ I am a dedicated **content writer** with a lifelong habit of note-making, reflec
 ---
 
 ## 📘 Content Writing Areas
-I specialize in writing for:
 
-- **Python & Data Analysis** *(educational & introductory content)*  
-- **SEO & Digital Presence** *(research-based content)*  
-- **DevOps, Networking, and Cloud (AWS, Azure, GCP)** *(beginner-friendly guides, theory-focused)*  
-- **AI & Prompt Engineering** *(writing with and about ChatGPT)*  
-- **Multilingual Language Education** *(focused on Asian expat communities)*  
-- **Academic Subjects** *(English, Science, Sociology, History)*  
-- **Spiritual & Reflective Writing** *(with depth and voice)*
+🧠 Lifelong Learner & Content Note Maker  
+📘 I have always explored new fields by writing my way into them.  
+From traditional subjects to modern tech — I create deep, personal notes that help others understand.
+
+Topics I’ve self-learned and written content for include:  
+• Academic: English, Physics, Chemistry, Biology, Math, History  
+• Modern: Python (basics), Data Analysis, DevOps, SEO, Prompt Engineering  
+• Certifications: AWS, Azure, Google Cloud – explored through learner notes  
+• Language: French (basic), Danish  
+• Exams: IELTS, TOEFL, DET  
+• Others: Project Management, Networking fundamentals
+
 
 > “I write not just to explain — but to **reach**. My aim is always clarity, honesty, and healing through words.”
 
