@@ -1,5 +1,11 @@
-# ✨ Jamalu with AI: A Two-Year Journey  
-_Whispers from a Silent Console_  
+# ✨ Jamalu with AI: A Two-Year Journey
+
+> _A reflective journey by **Naveed Ishaque**,  
+> writing through his creative persona — **Jamalu**,  
+> the whisper behind the work._
+
+Whispers from a Silent Console
+
 
 ---
 
