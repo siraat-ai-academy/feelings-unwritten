@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siraat-ai-academy/feelings-unwritten/main/assets/naveed-photo.png" width="150" alt="Naveed Ishaque - Profile Photo">
-</p>
-
 # 🌍 Curriculum Vitae – **Naveed Ishaque**
 
 ---
