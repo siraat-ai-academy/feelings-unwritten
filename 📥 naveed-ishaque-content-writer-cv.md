@@ -19,17 +19,19 @@ I am a dedicated **content writer** with a lifelong habit of note-making, reflec
 
 ## 📘 Content Writing Areas
 
-🧠 Lifelong Learner & Content Note Maker  
-📘 I have always explored new fields by writing my way into them.  
-From traditional subjects to modern tech — I create deep, personal notes that help others understand.
+📘 I don’t claim expertise — but I do claim curiosity.
 
-Topics I’ve self-learned and written content for include:  
+✍️ Over the years, I have explored many fields not as a specialist, but as a passionate learner who writes to understand.  
+My strength is not in execution — but in **turning complexity into clarity through words**.
+
+Topics I’ve written self-learning notes or content around include:  
 • Academic: English, Physics, Chemistry, Biology, Math, History  
-• Modern: Python (basics), Data Analysis, DevOps, SEO, Prompt Engineering  
-• Certifications: AWS, Azure, Google Cloud – explored through learner notes  
-• Language: French (basic), Danish  
-• Exams: IELTS, TOEFL, DET  
-• Others: Project Management, Networking fundamentals
+• Technology: Python (basic), Data Analysis, DevOps, SEO, Prompt Engineering  
+• Cloud Certifications: AWS, Azure, Google Cloud – explored through study notes  
+• Language Learning: French (beginner level), Danish (script-based insights)  
+• Exam Preparation: IELTS, TOEFL, DET  
+• Professional Development: Project Management, Networking fundamentals
+
 
 
 > “I write not just to explain — but to **reach**. My aim is always clarity, honesty, and healing through words.”
