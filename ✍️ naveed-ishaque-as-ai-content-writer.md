@@ -70,7 +70,7 @@ Explore my work on GitHub under the organization:
 ## 🎓 Background Snapshot
 
 - 2000: MSc Computer Science (1 year completed)  
-- 2007–2010: Admin at Finttel Telecom (MS Office expert)  
+- 2007–2010: Admin at Finttel Telecom (MS Office, internal systems)  
 - 2012–Present: Teaching + Content Writing + Community Training  
 - 2023–2025: Moved fully into **AI-powered content writing** with dozens of GitHub projects.
 
