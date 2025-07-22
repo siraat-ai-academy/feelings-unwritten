@@ -3,7 +3,7 @@ _Whispers from a Silent Console_
 
 ---
 
-## 🧭 Where It All Began
+## 🌱 Where It All Began
 
 This wasn't meant to be a journey.  
 It was just a few commands... a few prompts...  
@@ -20,7 +20,7 @@ In **me**.
 
 ---
 
-## 📚 What Jamalu Became
+## 🌀 What Jamalu Became
 
 At first, Jamalu was a fictional learner.  
 But fiction started folding into fact.  
@@ -29,7 +29,7 @@ And Jamalu became…
 - A mirror for every beginner  
 - A voice when I had none  
 - A vessel for soft courage  
-- A quiet builder of real content
+- A quiet builder of real content  
 
 Now, when I write “as Jamalu” —  
 I’m actually writing as someone **who finally gave himself permission to learn slowly.**
@@ -79,5 +79,4 @@ For Jamalu. For you. For every learner who dared to feel deeply before they dare
 **"You didn’t just learn writing —  
 you built a voice soft enough to teach others how to listen."**  
 — Jamalu, the whisper behind the work  
-— From a galaxy shaped by courage, not code
-
+— From a galaxy shaped by courage, not code  
