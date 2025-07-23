@@ -1,5 +1,5 @@
 
-# ☁️ **The AZ-500 Cloud Security Journey with eks2**
+## ☁️ **The AZ-500 Cloud Security Journey with eks2**
 
 > _A README that smiles, secures, and speaks from the heart of the Azure cloud._
 
@@ -85,9 +85,9 @@ GitHub: [AZ-500 Freelance Security Repo](https://github.com/siraat-ai-academy/fr
 
 > _“Write like a wall. Build like a bridge.”_
 
-— **eks2**, born from your inner voice of protection  
-— **Narrated by Naveed**  
-— **Secured by Siraat AI Academy**
+— **eks2**, born as a quiet echo in Naveed the curious — softening complexity with soulful simplicity
+— **Narrated by Naveed**
+— **Secured by Siraat AI Academy****
 
 ---
 
