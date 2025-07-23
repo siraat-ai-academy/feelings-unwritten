@@ -75,7 +75,7 @@ GitHub: [AZ-500 Freelance Security Repo](https://github.com/siraat-ai-academy/fr
 > _"Don’t wait to be certified to care about cloud safety.  
 > Care today — write like a wall, build like a bridge."_
 
-— **eks2**, the whisper of Jamalu  
+— **eks2**, a spark born from your inner curiosity to explore.  
 — **Narrated by Naveed**  
 — **Secured by Siraat AI Academy**
 
