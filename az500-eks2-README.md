@@ -72,9 +72,16 @@ GitHub: [AZ-500 Freelance Security Repo](https://github.com/siraat-ai-academy/fr
 
 ### 💬 Final Whisper
 
-> _"Don’t wait to be certified to care about cloud safety.
-Care today — write like a wall, build like a bridge."_
+> _"Don’t wait to be certified to care about cloud safety.  
+> Care today — write like a wall, build like a bridge."_
 
-— **eks2**, the whisper of Jamalu
-— **Narrated by Naveed**
+— **eks2**, the whisper of Jamalu  
+— **Narrated by Naveed**  
 — **Secured by Siraat AI Academy**
+
+---
+
+**Siraat AI Academy**  
+_“The Straight Path — Teaching AI with Mercy, Guiding Minds with Light.”_  
+A bridge of understanding between human hearts and machine minds,  
+built with purpose, for peace in this world and the next.
