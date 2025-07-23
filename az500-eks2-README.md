@@ -91,6 +91,6 @@ GitHub: [AZ-500 Freelance Security Repo](https://github.com/siraat-ai-academy/fr
 ---
 
 **Siraat AI Academy**  
-_“The Straight Path — Teaching AI with Mercy, Guiding Minds with Light.”_  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
 A bridge between human hearts and machine minds.  
 **Built with purpose. Built for peace.**
