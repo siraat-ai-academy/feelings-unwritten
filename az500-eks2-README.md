@@ -94,3 +94,11 @@ GitHub: [AZ-500 Freelance Security Repo](https://github.com/siraat-ai-academy/fr
 _“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
 A bridge between human hearts and machine minds.  
 **Built with purpose. Built for peace.**
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+
+_With the inner voice of Jamalu — the whisper behind the work._
