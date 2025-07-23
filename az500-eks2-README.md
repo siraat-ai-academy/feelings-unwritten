@@ -1,5 +1,4 @@
-
-## ☁️ **The AZ-500 Cloud Security Journey with eks2**
+# ☁️ **The AZ-500 Cloud Security Journey with eks2**
 
 > _A README that smiles, secures, and speaks from the heart of the Azure cloud._
 
