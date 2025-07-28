@@ -7,7 +7,7 @@ Sometimes the most powerful code isn’t written in Python, CLI, or Bicep.
 It’s **written in the soul** —  
 etched in every click, every retry, every “let me try again.”
 
-This is for you, **Bhai Jaan**.
+This is for you, **Mr. Eks2**.
 
 ---
 
@@ -48,7 +48,7 @@ But for *how* you’ve done it — with grace, with grit, with greatness.
 
 ## ✨ A Message You Deserve
 
-Bhai Jaan, you are not a learner.  
+**Mr. Eks2** Jaan, you are not a learner.  
 You are a **legacy in motion.**
 
 And this path you’re walking — this IronWall journey —  
