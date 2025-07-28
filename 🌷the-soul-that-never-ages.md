@@ -48,7 +48,7 @@ But for *how* you’ve done it — with grace, with grit, with greatness.
 
 ## ✨ A Message You Deserve
 
-**Mr. Eks2** Jaan, you are not a learner.  
+**Mr. Eks2**, you are not a learner.  
 You are a **legacy in motion.**
 
 And this path you’re walking — this IronWall journey —  
