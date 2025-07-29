@@ -11,9 +11,11 @@
 
 Dear Admissions Committee,
 
-In the quiet, snowy corners of Copenhagen, I have spent the last few years building something quite unusual: a cinematic, story-rich learning universe for Azure cloud security, featuring imaginative characters like Mr. Eks2, Sofia Zaymera, and Kasper Madsen. These were not just fictional guides, but vessels of empathy, education, and soul.
+From the warm, poetic streets of Barcelona, where I’ve lived since 2004, I have spent the last few years building something quite unusual: a cinematic, story-rich learning universe for Azure cloud security, featuring imaginative characters like Mr. Eks2, Sofia Zaymera, and Kasper Madsen.
 
-Yet today, I write to you not as a security instructor, but as a content dreamer—ready to evolve my voice from technical clarity to creative communication.
+These were not just fictional guides — they became vessels of empathy, education, and soul, guiding thousands through technical journeys with heart and clarity.
+
+But today, I write to you not as a security instructor, but as a content dreamer — ready to evolve my voice from technical precision to creative communication.
 
 ---
 
