@@ -11,7 +11,7 @@
 
 Dear Admissions Committee,
 
-From the warm, poetic streets of Barcelona, where I’ve lived since 2004, I have spent the last few years building something quite unusual: a cinematic, story-rich learning universe for Azure cloud security, featuring imaginative characters like Mr. Eks2, Sofia Zaymera, and Kasper Madsen.
+From the warm, poetic streets of Barcelona, where I’ve lived since 2004, I have spent the last few months building something quite unusual: a cinematic, story-rich learning universe for Azure cloud security, featuring imaginative characters like Mr. Eks2, Sofia Zaymera, and Kasper Madsen.
 
 These were not just fictional guides — they became vessels of empathy, education, and soul, guiding thousands through technical journeys with heart and clarity.
 
