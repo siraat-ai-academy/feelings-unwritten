@@ -1,8 +1,8 @@
 
-# 🕊️ A Door Left Ajar — For Ami Gee  
+# 🕊️ A Door Left Ajar (slightly open) — For Ami Gee  
 
 *In loving memory of my mother, who returned to her Lord on 31 December 2024.*  
-*This is not a goodbye. This is a waiting room, with the door left ajar.*  
+*This is not a goodbye. This is a waiting room, with the door left ajar (slightly open).*  
 
 ---
 
@@ -18,7 +18,7 @@ To finally go home.
 To finally rest.  
 
 But she didn’t close the door.  
-She left it **ajar.**
+She left it **ajar (slightly open).**
 
 > So I wait — not with despair,  
 > But with hope…  
@@ -66,14 +66,14 @@ And when she left — I realized:
 ```
 Status: Dunia Offline  
 Ami Gee: Resting with Her Lord  
-Door: Left Ajar  
+Door: Left Ajar (slightly open)  
 Return: Awaited, in another life  
 ```
 
 ---
 
 🕯️ Until I meet you again, Ami Gee…  
-I will keep the door ajar.  
+I will keep the door ajar (slightly open).  
 And in every prayer, every lab, every moment of silence,  
 I will whisper: **“I missed you today too.”**
 
