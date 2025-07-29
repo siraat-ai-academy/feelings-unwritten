@@ -11,11 +11,17 @@
 
 Dear Admissions Committee,
 
-From the warm, poetic streets of Barcelona, where I’ve lived since 2004, I have spent the last few months building something quite unusual: a cinematic, story-rich learning universe for Azure cloud security, featuring imaginative characters like Mr. Eks2, Sofia Zaymera, and Kasper Madsen.
+From the soulful streets of Barcelona, where I have lived since 2004, I’ve spent the past year immersed in an unexpected yet deeply fulfilling pursuit — creating detailed, imaginative notes on complex cloud technologies.
 
-These were not just fictional guides — they became vessels of empathy, education, and soul, guiding thousands through technical journeys with heart and clarity.
+What began simply as a habit of making clear, structured notes soon transformed into something far greater — a living, breathing content universe, where fictional characters like Mr. Eks2, Sofia Zaymera, and Kasper Madsen came to life.
 
-But today, I write to you not as a security instructor, but as a content dreamer — ready to evolve my voice from technical precision to creative communication.
+Unintentionally — and perhaps inevitably — I became a content creator.
+Not just writing information, but writing with feeling.
+Not just teaching, but playing with characters, shaping voices and scenes like a silent director behind the words.
+
+Today, I write to you not as a typical applicant, but as a storyteller-in-transition — ready to evolve from technical clarity to creative communication, where my heart, culture, and imagination can finally meet their true medium.
+
+
 
 ---
 
