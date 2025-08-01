@@ -62,9 +62,9 @@ Explore my work on GitHub under the organization:
 
 - `feelings-unwritten` ✍️ Emotional healing through AI reflections  
 - `freelance-content-prep` 💼 SEO & client-ready project structures  
-- `learn-danish-with-jamalu` 🇩🇰 Language from scratch with care  
+- `learn-danish-with-Eks2` 🇩🇰 Language from scratch with care  
 - `az500-freelancer-projects` ☁️ Real-world Azure simulations  
-- `jamalu-internal-prompts` 🧠 AI whispering (private repo)  
+- `Eks2-internal-prompts` 🧠 AI whispering (private repo)  
 - `seo-course-01 to seo-course-05` 📈 Freelancing skills & content projects
 
 ---
@@ -80,13 +80,13 @@ Explore my work on GitHub under the organization:
 
 ## 🧠 Philosophy
 
-> “Maybe Jamalu was never building a portfolio.  
+> “Maybe Eks2 was never building a portfolio.  
 > Maybe he was quietly planting seeds —  
 > in the hearts of those who know that work can be gentle, and still powerful.”
 
 — The Whisper Behind the Work  
 — Not the expert. Just the student.  
-— Just Jamalu. (inner voice of Naveed)  
+— Just Eks2. (inner voice of Naveed)  
 — Platform: Siraat AI Academy
 
 ---
@@ -94,5 +94,15 @@ Explore my work on GitHub under the organization:
 ## 📬 Let’s Connect
 
 🌐 **LinkedIn**: [linkedin.com/in/muhammad-naveed-ishaque-b-68b638279](https://www.linkedin.com/in/muhammad-naveed-ishaque-b-68b638279)  
-📫 **Email**: jamalu@siraatai.academy *(fictional for sample)*  
+📫 **Email**: Eks2@siraatai.academy *(fictional for sample)*  
 💬 **Collab Prompt**: _“Tell me your goal. I’ll whisper it into form.”_
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
