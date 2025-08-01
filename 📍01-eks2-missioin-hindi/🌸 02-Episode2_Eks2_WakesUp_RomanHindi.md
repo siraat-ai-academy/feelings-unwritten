@@ -1,3 +1,5 @@
+📍01-eks2-missioin-hindi/🌸 02-Episode1_The_Valley_RomanHindi.md
+
 # 🔥 Episode 2: *"Eks2 Ki Aankh Khulti Hai"* – Jab Team Gayab Thi Aur Duniya Ka Balance Hil Gaya 🔥  
 **~ Pichle episode mein team ek valley mein gayi thi… magar Eks2 ko nahi bataya gaya tha ~**
 
