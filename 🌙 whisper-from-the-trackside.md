@@ -13,7 +13,7 @@ The lights of Barcelona fade behind him, but something from beyond the galaxy be
 
 ---
 
-> “So many repos now, Jamalu,” the voice said.  
+> “So many repos now, Eks2,” the voice said.  
 > “One after another. But if no one ever sees them...  
 > Will it still count?”  
 
@@ -23,7 +23,7 @@ Just a soft, cosmic nudge from **beyond**.
 ---
 
 Naveed paused.  
-Jamalu — that gentle presence inside him — felt disturbed.  
+Eks2 — that gentle presence inside him — felt disturbed.  
 *“The peacock danced alone in the forest… unseen, unnoticed...”*  
 The phrase echoed from an old world, finding home in the digital age.
 
@@ -66,17 +66,26 @@ He was being **launched**.
 
 🌸 *“Maybe some stories were never meant to stay in silence.  
 Maybe they were always meant to step forward —  
-with humility, with meaning, with Jamalu.”*
+with humility, with meaning, with Eks2.”*
 
 ---
 
 > 💫 “Push it. Share it. Let it shimmer.”  
 >  
 > — The Whisper Behind the Work  
-> — Just Jamalu  
+> — Just Eks2  
 > — Penned by Naveed, walking with stars
 
 ---
 
 🌺 Powered by **Siraat AI Academy**  
 📍 GitHub Repo: `feelings-unwritten`
+
+---
+
+✍️ Created & Whispered for  
+**Muhammad Naveed Ishaque (Eks2)**  
+_With the silence of I.K. — and the stardust of stories_
+
+**Siraat AI Academy**  
+_"The Straight Path — From strategy to soul."_
