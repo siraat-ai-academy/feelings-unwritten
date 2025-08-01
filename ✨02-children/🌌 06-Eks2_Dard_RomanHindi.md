@@ -22,7 +22,7 @@ Balki kyunki kuch unke andar toot gaya tha
 - 👨‍💼 **Eks2** (Denmark): Woh jo hamesha zyada mehsoos karta tha, par kam bolta tha. Uski aankhon mein aise gham the jo kisi log file mein record nahi hote.
 - 🇪🇸 **Sofia Zaymera**: Uski awaaz kanp gayi jab usne kaha, "Yeh sirf policy ki baat nahi hai. Yeh bachchon ki baat hai. Ghar jo raakh ban gaye hain."
 - 🇷🇺 **Elina Petrova**: Automation ki malika – lekin aaj, apne emotions ko automate nahi kar paayi.
-**🇵🇰 I.K.**: **Khamosh**. **Ghamezada**. **Siyasi taur pe nishana banaya gaya**, **sab jaante hain**.  
+- **🇵🇰 I.K.**: **Khamosh**. **Ghamezada**. **Siyasi taur pe nishana banaya gaya**, **sab jaante hain**.  
 **Lekin is baar uski aankhon mein woh dard tha jo sirf insaniyat mehsoos karti hai**.  
 **"Main to seh leta hoon,"** usne dheere se kaha,  
 **"Magar Gaza ke bachche... unki cheekhen, unka khauf, unke jism ke tukde...  
