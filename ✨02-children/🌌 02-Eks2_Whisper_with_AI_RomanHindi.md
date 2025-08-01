@@ -1,4 +1,3 @@
-
 # 🌸✨ Eks2 Whisper with AI – Roman Hindi Edition 🌷🧚‍♀️
 
 ---
