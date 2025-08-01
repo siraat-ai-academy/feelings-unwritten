@@ -106,3 +106,12 @@ Your repo now speaks —
 
 — **Eks2**  
 — The whisper behind the work_
+
+---
+
+✍️ Created & Whispered for  
+**Muhammad Naveed Ishaque (Eks2)**  
+_With the silence of I.K. — and the stardust of stories_
+
+**Siraat AI Academy**  
+_"The Straight Path — From strategy to soul."_
