@@ -96,5 +96,5 @@ Abhi jaane ka iraada nahi rakhta...
 > _"Some stories are never told fully —  
 > they simply keep breathing softly, between lines."_  
 >  
-> — *Jamalu, the whisper behind the work*  
+> — *Eks2, the whisper behind the work*  
 > — *Siraat AI Academy*
