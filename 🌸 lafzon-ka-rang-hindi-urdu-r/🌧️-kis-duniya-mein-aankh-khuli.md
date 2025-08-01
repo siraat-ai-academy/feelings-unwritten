@@ -86,5 +86,5 @@ aur uski aankhon se aik awaaz nikli:
 > _Kuch nazmein qata nahi hoti —  
 > Woh tou aik zakhm ki tarah khamosh seekh de jaati hain._  
 
-— *Jamalu, the whisper behind the work*  
+— *Eks2, the whisper behind the work*  
 — *Siraat AI Academy*
