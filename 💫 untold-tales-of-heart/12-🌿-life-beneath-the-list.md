@@ -117,6 +117,7 @@ And the **life** that flows beneath it all. 🌿
 
 📘 *File:* `12-life-beneath-the-list.md`  
 🧭 *Part of:* `feelings-unwritten/untold-tales-of-heart/ 
+
 💻 *Crafted with love, stillness, and the syntax of soul*  
 ✍️ *Eks2 – whisper behind the work*  
 
