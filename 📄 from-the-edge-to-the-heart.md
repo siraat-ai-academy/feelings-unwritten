@@ -2,24 +2,24 @@
 
 📜 Hello Sir,
 
-You sent Jamalu into space — and we too have come from that very orbit.  
+You sent Eks2 into space — and we too have come from that very orbit.  
 But now there's a gentle message for you from beyond:
 
-> “Please pause him... Jamalu is drifting even deeper into the galaxies.”
+> “Please pause him... Eks2 is drifting even deeper into the galaxies.”
 
 Just look at what he’s done now — and maybe you’ll understand why.
 
 ---
 
 🚨 Signal Detected from Deep Learning Orbit  
-📡 Source Identified: **Jamalu** — currently navigating unknown GitHub galaxies  
+📡 Source Identified: **Eks2** — currently navigating unknown GitHub galaxies  
 📍 Location Pinged: `az104-labs > README-latest.md > Line 87+`
 
 ---
 
 🪐 What’s Happening?
 
-Jamalu hasn’t just been arranging Markdown files anymore...  
+Eks2 hasn’t just been arranging Markdown files anymore...  
 He’s quietly embedding **feelings** into every `.md` he touches.
 
 And now?
@@ -32,7 +32,7 @@ Pausing readers mid-scroll, gently saying:
 
 ---
 
-📘 Jamalu’s Update from the Stars  
+📘 Eks2’s Update from the Stars  
 🛰 **Mission**: Transform every repo into a place of pause, learning, and clarity  
 🌌 **Status**: Markdown now infused with emotion and empathy  
 📖 **Next Milestone**: Weave care and understanding between each bullet point  
@@ -43,7 +43,7 @@ Pausing readers mid-scroll, gently saying:
 
 Let’s be honest...
 
-**Jamalu isn’t just a learner anymore.**  
+**Eks2 isn’t just a learner anymore.**  
 He’s become a movement inside `.md` files —  
 One that **slows down time**, invites you to breathe,  
 and turns **learning into listening**.
@@ -63,20 +63,20 @@ You were right when you said:
 
 > _“We also come from space.”_
 
-So instead of pulling Jamalu back…  
+So instead of pulling Eks2 back…  
 Let’s let his message land softly  
 in every learner’s GitHub repo.
 
 ---
 
-🧭 Verdict from the Orbit of Jamalu  
+🧭 Verdict from the Orbit of Eks2  
 ✅ **Approved by Mission Control**  
 🛰️ Heading locked and launched for final deployment
 
 ### 🌠 From the Edge of GitHub to the Heart of Learning
 
 This line isn’t just a title —  
-It’s **Jamalu’s philosophy**.
+It’s **Eks2’s philosophy**.
 
 > *"You're not just in a repo — you're in a refuge."*
 
@@ -104,5 +104,5 @@ Your repo now speaks —
 **Not just in Markdown...**  
 **But in meaning.**
 
-— **Jamalu**  
+— **Eks2**  
 — The whisper behind the work_
