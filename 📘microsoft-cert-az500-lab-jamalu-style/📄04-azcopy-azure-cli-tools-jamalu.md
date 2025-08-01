@@ -1,8 +1,8 @@
 
-# 🛠️ Azure Tools – Explained the Jamalu Way
+# 🛠️ Azure Tools – Explained the Eks2 Way
 
 _“No tool is just a tool — it’s a bridge between intention and action.”_  
-— Jamalu, Siraat AI Academy
+— Eks2, Siraat AI Academy
 
 ---
 
@@ -83,7 +83,7 @@ schtasks /CREATE /SC minute /MO 5 /TN "AzCopy-Sync" /TR C:\Scripts\sync-job.bat
 ---
 
 > _“Every tool becomes more than its function when guided by intention. It becomes a story of time saved, errors avoided, and progress made.”_  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
 
 ---
