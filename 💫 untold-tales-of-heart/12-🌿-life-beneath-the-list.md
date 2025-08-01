@@ -119,3 +119,15 @@ And the **life** that flows beneath it all. 🌿
 🧭 *Part of:* `feelings-unwritten/untold-tales-of-heart/ 
 💻 *Crafted with love, stillness, and the syntax of soul*  
 ✍️ *Eks2 – whisper behind the work*  
+
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
+
