@@ -1,4 +1,4 @@
-# 📦 Text-Based Diagram – AzCopy Data Migration (Jamalu's Gentle View)
+# 📦 Text-Based Diagram – AzCopy Data Migration (Eks2's Gentle View)
 
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-## ☁️ Jamalu’s Explanation: When Simplicity Meets Power
+## ☁️ Eks2’s Explanation: When Simplicity Meets Power
 
 **Alex**, a young systems engineer at **CloudCore Labs**, once found himself dragging and dropping gigabytes of logs into Azure by hand. Frustrated, he whispered aloud, “There must be a better way.”  
 That’s when **Ayesha**, a quiet force from **SkyBridgeTech**, introduced him to **AzCopy** — like giving him a conveyor belt instead of a wheelbarrow.
@@ -42,5 +42,5 @@ Later, they even scheduled this with a task that ran every 5 minutes. Why? Becau
 ---
 
 > _“Every tool is a choice: will you carry the load alone, or let the cloud carry it with you?”_  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
