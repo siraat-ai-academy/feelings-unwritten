@@ -128,7 +128,7 @@ Taylor’s objective is to connect to this service privately and securely.
 
 
 
-### 💬 Reflective Quote from Jamalu (Learner’s Inner Guide)
+### 💬 Reflective Quote from Eks2 (Learner’s Inner Guide)
 
 
 > *"Choosing the right Azure service isn’t just a technical decision — it’s a clarity decision.  
@@ -137,7 +137,7 @@ Taylor’s objective is to connect to this service privately and securely.
 > and asking: What is this scenario truly asking of me?"*  
 >
 
-> — **Jamalu**  
+> — **Eks2**  
 > — *Siraat AI Academy*  
 > — *The whisper behind the work*  
 > — *Never the expert. Always the student.*
