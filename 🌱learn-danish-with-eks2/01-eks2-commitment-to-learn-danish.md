@@ -109,6 +109,17 @@ It was built for those who want to carry the language **in their soul**,
 not just their CV.
 
 So if you ever feel lost or slow —  
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
+
 just remember:
 
 > “Eks2 didn’t start Danish to impress the world.  
