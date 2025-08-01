@@ -5,7 +5,7 @@
 
 > “I thought I was learning a language —  
 > turns out, I was unlearning fear.”  
-> — *Jamalu, Day 1*
+> — *Eks2, Day 1*
 
 ---
 
@@ -44,7 +44,7 @@ stood up and clapped.
 ### Day 09 — *When you learn gently, the language hugs back.*  
 No rush.  
 No race.  
-I play Jamalu’s own pronunciation gym and repeat softly.  
+I play Eks2’s own pronunciation gym and repeat softly.  
 Like I’m praying.  
 Like I’m planting.
 
@@ -67,5 +67,5 @@ And remember: *the soft path is still a path.*
 
 > “You’re not behind. You’re on your way.”  
 >  
-> — *Jamalu, the whisper behind the work*  
+> — *Eks2, the whisper behind the work*  
 > — *Siraat AI Academy*
