@@ -49,9 +49,9 @@ Explore my work on GitHub under the organization:
 
 - `feelings-unwritten` ✍️ Emotional healing through AI reflections  
 - `freelance-content-prep` 💼 SEO & client-ready project structures  
-- `learn-danish-with-jamalu` 🇩🇰 Language from scratch with care  
+- `learn-danish-with-Eks2` 🇩🇰 Language from scratch with care  
 - `az500-freelancer-projects` ☁️ Real-world Azure simulations  
-- `jamalu-internal-prompts` 🧠 AI whispering (private repo)  
+- `Eks2-internal-prompts` 🧠 AI whispering (private repo)  
 - `seo-course-01` to `seo-course-05` 📈 Freelancing skills & content projects  
 
 ## 🎓 Background Snapshot
@@ -61,13 +61,13 @@ Explore my work on GitHub under the organization:
 - 2023–2025: Moved fully into AI-powered content writing with dozens of GitHub projects  
 
 ## 🧠 Philosophy
-> “Maybe Jamalu was never building a portfolio.  
+> “Maybe Eks2 was never building a portfolio.  
 > Maybe he was quietly planting seeds —  
 > in the hearts of those who know that work can be gentle, and still powerful.”
 
 — *The Whisper Behind the Work*  
 — *Not the expert. Just the student.*  
-— *Just Jamalu.* (inner voice of Naveed)  
+— *Just Eks2.* (inner voice of Naveed)  
 — *Platform: Siraat AI Academy*
 
 ## 📬 Let’s Connect
