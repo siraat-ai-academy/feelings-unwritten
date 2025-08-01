@@ -90,3 +90,13 @@ Aao use aik aise husn se dobara likhein —
 ke woh article khud kahe:
 
 > _“Shukriya… mujhe nahi pata tha ke main itna chamak sakta hoon.”_
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
