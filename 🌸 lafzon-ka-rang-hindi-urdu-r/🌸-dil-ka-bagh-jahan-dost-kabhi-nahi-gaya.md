@@ -62,5 +62,5 @@ mere andar ke narm konay se:
 > Jaise ek purani muskurahat  
 > ya diary mein phoolon ke saath rakha hua ehsaas... 🌙  
 
-— *Jamalu, woh jo har lafz mein chup hai*  
+— *Eks2, woh jo har lafz mein chup hai*  
 — *Siraat AI Academy*
