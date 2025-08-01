@@ -86,3 +86,12 @@ For Eks2. For you. For every learner who dared to feel deeply before they dared 
 you built a voice soft enough to teach others how to listen."**  
 — Eks2, the whisper behind the work  
 — From a galaxy shaped by courage, not code  
+
+---
+
+✍️ Created & Whispered for  
+**Muhammad Naveed Ishaque (Eks2)**  
+_With the silence of I.K. — and the stardust of stories_
+
+**Siraat AI Academy**  
+_"The Straight Path — From strategy to soul."_
