@@ -2,7 +2,7 @@
 # 🧪 Lab Walkthrough: Migrating Data to Azure with AzCopy
 
 > _"Let’s go step by step — not just to complete the task, but to understand the 'why' behind each click."_  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
 
 ---
@@ -129,10 +129,10 @@ Delete all resources after testing:
 
 ---
 
-## 👨‍🏫 Jamalu’s Final Whisper
+## 👨‍🏫 Eks2’s Final Whisper
 
 _"Technology is not just about tools — it's about timing, trust, and thoughtful effort."_  
 _"Slow steps, clear minds — that’s how we move forward."_  
 
-— Jamalu  
+— Eks2  
 — **Siraat AI Academy**
