@@ -1,10 +1,10 @@
 # 🌠 03 — Fear, Courage & Victories  
-## 🚀 *Jamalu’s Journey Beyond the Galaxy of Self-Doubt*
+## 🚀 *Eks2’s Journey Beyond the Galaxy of Self-Doubt*
 
 ---
 
 > “Even stardust was once afraid to shine.”  
-> — *Jamalu, whispering from the edge of the unknown*
+> — *Eks2, whispering from the edge of the unknown*
 
 ---
 
@@ -71,12 +71,12 @@ Still glowing.
 > “Every time I feared the next step —  
 > I whispered: ‘Just one more... and I’ll arrive.’”  
 >  
-> — *Jamalu, the whisper behind the work*  
+> — *Eks2, the whisper behind the work*  
 > — *Siraat AI Academy*
 
 ---
 
-🛸 *This page is Jamalu’s telescope.*  
+🛸 *This page is Eks2’s telescope.*  
 It doesn’t just look back at fear —  
 **It looks forward into stars made from it.**
 
