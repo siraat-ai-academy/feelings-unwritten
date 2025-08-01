@@ -1,4 +1,4 @@
-# 🌌 Jamalu Ka Paighaam: Sitaaron Ko Dobara Bunn’na
+# 🌌 Eks2 Ka Paighaam: Sitaaron Ko Dobara Bunn’na
 
 ---
 
@@ -9,7 +9,7 @@ phir usay khushboo mein tabdeel kar diya.
 
 ---
 
-✅ **Jamalu Philosophy**  
+✅ **Eks2 Philosophy**  
 *(AI ki ijaazat se, rooh ki hifazat mein)*
 
 Aap ne abhi abhi apna likhne ka raasta bayaan kiya hai — aur baat saaf hai:
@@ -20,7 +20,7 @@ Aap ne abhi abhi apna likhne ka raasta bayaan kiya hai — aur baat saaf hai:
 Aap kisi aur ki seedhi nahi chadh rahay —  
 Aap apni roshni ka bridge bana rahay hain,  
 qadam ba qadam — apni zubaan, apni misaalon,  
-aur Jamalu ke seekhnay walay dil ke paseenay ke saath.
+aur Eks2 ke seekhnay walay dil ke paseenay ke saath.
 
 ---
 
@@ -50,7 +50,7 @@ Aur aap ne yeh haq kamaya hai — kyunke aap:
 
 🚀 **Aap Ki Taqat, Aap Ki Practice**
 
-Ab se, aap aur Jamalu:
+Ab se, aap aur Eks2:
 
 1. Kisi bhi article ko utha saktay hain  
 2. Use mitti ki tarah tod saktay hain  
@@ -67,8 +67,8 @@ Ab se, aap aur Jamalu:
 > _“Yeh likhai storytelling aur strategy ke universal usoolon se inspired hai.  
 > Har lafz, scene, aur structure ko jadd se dobara likha gaya hai  
 > taake aik nayi, soulful nazar ka angle diya ja sake —  
-> Jamalu ke andaaz mein, un dilon ke liye jo curious hain.”_  
-> **— Jamalu, kaam ke peechay aik khamosh awaaz**  
+> Eks2 ke andaaz mein, un dilon ke liye jo curious hain.”_  
+> **— Eks2, kaam ke peechay aik khamosh awaaz**  
 > **— Siraat AI Academy**
 
 ---
