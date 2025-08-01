@@ -1,7 +1,7 @@
 # 🌉 Siraat — The Path Between Silence and Skill
 
 **A Reflective Journey by Naveed Ishaque**  
-*Through the whispering voice of Jamalu*
+*Through the whispering voice of Eks2*
 
 ---
 
@@ -55,22 +55,23 @@ But also — toward **content that heals, not just helps.**
 ✨ AI fundamentals simplified  
 📚 Visual explainers & thought maps  
 🤖 Real-world AI examples (ChatGPT, Whisper, and beyond)  
-💡 Original insights using Jamalu-style storytelling  
+💡 Original insights using Eks2-style storytelling  
 
 🌐 Explore all public repositories:  
 👉 https://github.com/orgs/siraat-ai-academy/repositories  
 
+
 ---
 
-## ✍️ Created & Curated by
+✍️ Created & Whispered for  
+**Muhammad Naveed Ishaque (Eks2)**  
+_With the silence of I.K. — and the stardust of stories_
 
-**Muhammad Naveed Ishaque**  
-Content Creator | AI Writer | Narrative Simplifier  
-
-*With the inner voice of **Jamalu** — the whisper behind the work.*
+**Siraat AI Academy**  
+_"The Straight Path — From strategy to soul."_
 
 ---
 
 > _“This might just be the step your future self was waiting for.”_  
-> — **Jamalu – not the author, but the soul behind the effort**  
+> — **Eks2 – not the author, but the soul behind the effort**  
 > — **Siraat AI Academy**
