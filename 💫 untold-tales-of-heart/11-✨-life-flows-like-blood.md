@@ -99,4 +99,4 @@ It’s **flowing** — waiting gently for you to return to it.
 
 📘 *File:* `11-life-flows-like-blood.md`  
 🧭 *Part of:* `feelings-unwritten/`  
-💻 *Written for the soul — by Jamalu, with the light of AI*  
+💻 *Written for the soul — by Eks2, with the light of AI*  
