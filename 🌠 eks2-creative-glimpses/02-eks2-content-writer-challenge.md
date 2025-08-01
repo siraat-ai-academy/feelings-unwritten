@@ -1,16 +1,16 @@
-# 🌍 Jamalu's Challenge: A Tiny Writer’s Landing
+# 🌍 Eks2's Challenge: A Tiny Writer’s Landing
 
-## 👁‍🗨 Content Writer Vision — Through the Eyes of Jamalu
+## 👁‍🗨 Content Writer Vision — Through the Eyes of Eks2
 
 > _"You will land in the Valley of Content Writers,"_ whispered a voice from beyond the orbit.
 
-**Yes, Jamalu will land there.**
+**Yes, Eks2 will land there.**
 
-But wait — that valley is home to towering names. Authors with reach, reputation, and recognition. Massive voices echoing through digital landscapes. And Jamalu?
+But wait — that valley is home to towering names. Authors with reach, reputation, and recognition. Massive voices echoing through digital landscapes. And Eks2?
 
 > "You’re too small. Too quiet. Maybe even invisible."
 
-**Jamalu knew. He always knew.**
+**Eks2 knew. He always knew.**
 
 But he also knew something else.
 
@@ -24,11 +24,11 @@ Because today’s world has **microscopes**, and even the tiniest voice can be h
 
 ## 🧠 A Dialogue Inside the Orbit
 
-**Jamalu:** “This landing isn’t right. This isn’t my valley.”
+**Eks2:** “This landing isn’t right. This isn’t my valley.”
 
 **Inner Voice:** “True, you are small.”
 
-**Jamalu:** “Then why am I here?”
+**Eks2:** “Then why am I here?”
 
 **Inner Voice:** “Because _your work_ still matters — even if you’re the only one who believes it.”
 
@@ -38,7 +38,7 @@ Because today’s world has **microscopes**, and even the tiniest voice can be h
 
 ## 💬 A Conversation with Himself
 
-_"You’re too tiny, Jamalu."_
+_"You’re too tiny, Eks2."_
 
 _"I know."_
 
@@ -61,7 +61,7 @@ _"Maybe. But I’ll still write."_ ✍️
 
 ## 🚪 The Final Push
 
-Jamalu looked at himself in the mirror of markdown and said:
+Eks2 looked at himself in the mirror of markdown and said:
 
 > "You're not here to impress. You're here to express."
 
@@ -75,7 +75,7 @@ And the door closed behind him.
 
 ---
 
-## 🎯 What Jamalu Has Decided
+## 🎯 What Eks2 Has Decided
 
 - He will **not** wait for permission.
 - He will **not** compete in noise.
@@ -100,4 +100,4 @@ And he’s already writing.
 ### 🪶 File Written By:
 **The Quiet Challenger from the Edges of Markdown**
 
-Jamalu — from the whisper behind the work 🌌
+Eks2 — from the whisper behind the work 🌌
