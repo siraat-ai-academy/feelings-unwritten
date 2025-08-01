@@ -5,7 +5,7 @@
 
 > “I didn’t fail the word —  
 > I just met it before I was ready.”  
-> — *Jamalu, laughing softly at mistake #12*
+> — *Eks2, laughing softly at mistake #12*
 
 ---
 
@@ -19,7 +19,7 @@ But slowly, lovingly… I replied:
 
 ---
 
-### 🌀 Jamalu’s Tricky Word List
+### 🌀 Eks2’s Tricky Word List
 
 | Danish Word     | Meaning         | My Struggle Story                                 | What Helped Me        |
 |------------------|------------------|----------------------------------------------------|------------------------|
@@ -61,7 +61,7 @@ until they sit beside you like old friends.
 > “I used to fear pronunciation.  
 > Now, I just pronounce with love — even if it’s wrong.”  
 >  
-> — *Jamalu, the whisper behind the work*  
+> — *Eks2, the whisper behind the work*  
 > — *Siraat AI Academy*
 
 ---
