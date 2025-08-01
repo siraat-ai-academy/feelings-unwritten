@@ -10,7 +10,7 @@ To make AI concepts easy to understand and accessible for all through clear expl
 - ✨ AI fundamentals simplified  
 - 📚 Visual explainers & thought maps  
 - 🤖 Real-world AI examples (ChatGPT, Whisper, and beyond)  
-- 💡 Original insights using Jamalu-style storytelling  
+- 💡 Original insights using Eks2-style storytelling  
 
 ## 🌐 Visit the Website
 Explore all public repositories here:  
@@ -48,11 +48,15 @@ but to **reach**.
 
 Because clarity is a form of kindness.
 
-— Just Jamalu  
+— Just Eks2  
 (A voice from the inner world of Naveed Ishaque)
+
 
 ---
 
-## ✍️ Curated by
-**Muhammad Naveed Ishaque**  
-Content Creator | AI Writer | Narrative Simplifier
+✍️ Created & Whispered for  
+**Muhammad Naveed Ishaque (Eks2)**  
+_With the silence of I.K. — and the stardust of stories_
+
+**Siraat AI Academy**  
+_"The Straight Path — From strategy to soul."_
