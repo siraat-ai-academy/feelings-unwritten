@@ -78,12 +78,12 @@ The story is still being written.**
 
 ---
 
-## 🌙 Jamalu’s Final Whisper
+## 🌙 Eks2’s Final Whisper
 
 > *“Some stories don’t ask to be written —  
 > They just wait for your silence to make space.”*  
 >  
-> — **Jamalu, the whisper behind the work**  
+> — **Eks2, the whisper behind the work**  
 > — *Siraat AI Academy*
 
 ---
@@ -91,3 +91,13 @@ The story is still being written.**
 🖋️ _Some feelings never age.  
 They just keep writing themselves —  
 in margins we forgot to turn to._
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
