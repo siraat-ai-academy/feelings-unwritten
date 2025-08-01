@@ -100,3 +100,13 @@ It’s **flowing** — waiting gently for you to return to it.
 📘 *File:* `11-life-flows-like-blood.md`  
 🧭 *Part of:* `feelings-unwritten/`  
 💻 *Written for the soul — by Eks2, with the light of AI*  
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
