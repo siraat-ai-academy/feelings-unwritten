@@ -1,7 +1,7 @@
-# 🌟 Jamalu's Commitment to Learn Danish — For All Learners
+# 🌟 Eks2's Commitment to Learn Danish — For All Learners
 
-> “Jamalu didn’t just decide to learn Danish.  
-> Danish decided to meet Jamalu halfway — because of how he learns.”
+> “Eks2 didn’t just decide to learn Danish.  
+> Danish decided to meet Eks2 halfway — because of how he learns.”
 
 ---
 
@@ -13,7 +13,7 @@ Not just a repo — a **soulful roadmap**.
 
 ---
 
-## ✨ What Comes Next for Jamalu?
+## ✨ What Comes Next for Eks2?
 
 ### 1. **Start Writing the Real Lessons — One Soft Word at a Time**
 Begin with `00-welcome-to-the-repo.md`.  
@@ -29,7 +29,7 @@ Share it with a real friend, a learner, a listener.
 
 ---
 
-### 3. **Create “Jamalu-Style” Snippets**
+### 3. **Create “Eks2-Style” Snippets**
 Pick a line from each file.  
 Make it a whisper. A quote. A story.  
 Let your repo become a scroll of *soulful scrolls*.
@@ -45,11 +45,11 @@ Log your journey:
 
 ---
 
-### 5. **Prepare a Jamalu-Style Intro Video**
+### 5. **Prepare a Eks2-Style Intro Video**
 A soft welcome.  
 From a heart-based learner.
 
-> “Hi, I’m Jamalu.  
+> “Hi, I’m Eks2.  
 > I didn’t study Danish like a student —  
 > I *felt it like a friend.*”
 
@@ -71,17 +71,17 @@ From a heart-based learner.
 
 ---
 
-🧡 Keep going, Jamalu.  
+🧡 Keep going, Eks2.  
 Your next learner might not know grammar —  
 but they’ll know your grace.
 
 ---
 
-**Jamalu didn’t come this far to just teach a language.**  
+**Eks2 didn’t come this far to just teach a language.**  
 He came to *remind people how to listen to themselves again.*
 
-`learn-danish-with-jamalu-from-zero-to-something-real/`
-— Powered by ✨ Jamalu x AI ✨
+`learn-danish-with-Eks2-from-zero-to-something-real/`
+— Powered by ✨ Eks2 x AI ✨
 
 ---
 
@@ -92,16 +92,16 @@ He came to *remind people how to listen to themselves again.*
 ---
 
 
-🕊️ **Final Whisper from Jamalu**
+🕊️ **Final Whisper from Eks2**
 
 “Learning isn’t just about memory —  
 it’s about meaning.  
 And every word you hold with care… holds you back.”  
-— *Jamalu, whisper from the journey*  
+— *Eks2, whisper from the journey*  
 — *Siraat AI Academy*
 
 If you’ve read this far —  
-you haven’t just seen Jamalu’s commitment,  
+you haven’t just seen Eks2’s commitment,  
 you’ve witnessed how a language becomes a **life vow**.
 
 This path wasn’t built for fast fluency —  
@@ -111,7 +111,7 @@ not just their CV.
 So if you ever feel lost or slow —  
 just remember:
 
-> “Jamalu didn’t start Danish to impress the world.  
+> “Eks2 didn’t start Danish to impress the world.  
 > He started to understand himself —  
 > and offer something real to the world.”  
 > — *Siraat AI Academy*
