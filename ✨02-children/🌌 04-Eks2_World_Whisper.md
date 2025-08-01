@@ -1,4 +1,3 @@
-
 # 🌸 Eks2 – The Silent Wound of the World 💔
 
 *There are moments... where the earth feels heavier than usual.  
