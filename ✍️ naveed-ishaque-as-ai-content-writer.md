@@ -74,3 +74,12 @@ Explore my work on GitHub under the organization:
 - **LinkedIn**: [Muhammad Naveed Ishaque](https://www.linkedin.com/in/muhammad-naveed-ishaque-b-68b638279/)  
 - 🔗 Github Repos : [siraat-ai-academy](https://github.com/siraat-ai-academy)
 - **Location**: Barcelona, Spain (Ready to relocate to Copenhagen)
+
+---
+
+✍️ Created & Whispered for  
+**Muhammad Naveed Ishaque (Eks2)**  
+_With the silence of I.K. — and the stardust of stories_
+
+**Siraat AI Academy**  
+_"The Straight Path — From strategy to soul."_
