@@ -69,3 +69,14 @@ And remember: *the soft path is still a path.*
 >  
 > — *Eks2, the whisper behind the work*  
 > — *Siraat AI Academy*
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque**  
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of Eks2 — the whisper behind the work._  
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
+
