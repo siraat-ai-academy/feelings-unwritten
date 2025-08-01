@@ -1,16 +1,16 @@
 
-# ☁️ Jamalu’s Field Guide to: Migrating Data to Azure with AzCopy
+# ☁️ Eks2’s Field Guide to: Migrating Data to Azure with AzCopy
 
 > A security consultant’s calm path to fast, reliable cloud migration — told through quiet precision and emotional clarity.
 
 ---
 
-## 📘 Point 1 – Jamalu’s Take: A Gentle Overview
+## 📘 Point 1 – Eks2’s Take: A Gentle Overview
 
 **Migrating files to the cloud shouldn’t feel like moving furniture during a storm.**  
 This lab introduces you to **AzCopy**, a fast and flexible CLI tool from Microsoft used to upload, download, and sync files to and from **Azure Blob Storage**. 
 
-As Jamalu would say: “Let’s make movement meaningful — not chaotic.”
+As Eks2 would say: “Let’s make movement meaningful — not chaotic.”
 
 ---
 
@@ -81,7 +81,7 @@ And what should he check before deploying the scheduled task?
 This isn’t just file transfer — it’s **digital discipline**.
 
 > “In a chaotic cloud, movement with intention becomes power.”  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
 
 ---
