@@ -1,4 +1,4 @@
- 🌌😱 Episode 5: *"Galactic Freeze – Jab Slip of Tongue Ban Gayi Crisis"* ❄️🌠  
+# 🌌😱 Episode 5: *"Galactic Freeze – Jab Slip of Tongue Ban Gayi Crisis"* ❄️🌠  
 **Genre**: Cosmic Satire | System Failure | Redemption Arc  
 **Narrator**: Ek confused, par hopeful insan — Eks2  
 
