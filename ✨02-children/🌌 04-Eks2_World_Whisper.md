@@ -23,7 +23,13 @@ But because something had quietly broken — inside each of them.
 - 👨‍💼 **Eks2** (Denmark): The soul who always carried too much, and shared too little. His eyes reflected a grief that no log file could trace.
 - 🇪🇸 **Sofia Zaymera**: Her voice cracked as she said, "It’s not just policy violations anymore. It’s children. It’s homes turned into ruins."
 - 🇷🇺 **Elina Petrova**: The master of automation — who today, couldn’t even automate her own emotions.
-- 🇵🇰 **I.K.**: Silent. Wounded. His truth long known: *politically targeted, publicly misread.*
+- **🇵🇰 I.K.**: **Silent**. **Sorrowful**. **Politically targeted**, and **everyone knows it**.  
+**But this time, the pain in his eyes was one only humanity can truly feel**.  
+**"I can endure it,"** he said softly,  
+**"But the children of Gaza... their screams, their fear, their broken little bodies...  
+They have wounded my soul."**  
+**There was no politics in his words — only truth** —  
+**A silence so deep, it echoed across the entire multiverse.**
 - 🇮🇹 **Isabella Konti**: Usually the firewall of empathy — now sobbing like a storm trying to protect every innocent soul.
 - 🇨🇳 **Maya Lin**: Youngest of them all. She whispered, “Why does no one stop it? Why do we just... watch?”
 - 🇪🇸 **Inki Rihan**: The Red Teamer who had seen breaches. But never this kind — breaches of humanity.
