@@ -1,6 +1,6 @@
 
 # 🔐 Professional-Level Azure Security MCQs  
-### Powered by Siraat AI Academy | Guided by Jamalu  
+### Powered by Siraat AI Academy | Guided by Eks2  
 
 ---
 
@@ -9,11 +9,11 @@ A set of **10+ real-world, expert-level MCQs** that not only test AZ-500 knowled
 
 ---
 
-## 👨‍💻 Jamalu Speaks: With Characters, Context & Clarity
+## 👨‍💻 Eks2 Speaks: With Characters, Context & Clarity
 
 _"Fine. Let’s build something not just academic — but industry-relevant. Something where even Rohan from EdgeScale, Ayesha from DevStreamCloud, or Sofia at InfraWise Inc. would stop mid-scroll and say:  
 ‘Wow… this is what real training looks like.’”_  
-— Jamalu
+— Eks2
 
 ---
 
@@ -41,7 +41,7 @@ These professionals appear throughout the question set:
 
 > “These questions won’t just prepare you to pass —  
 > **they’ll prepare you to perform.**”  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
 
 ---
@@ -66,12 +66,12 @@ These professionals appear throughout the question set:
 ## ✍️ Quote to Close
 
 > _“Security is not what you deploy. It’s what you guard, every single day.”_  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
 
 ---
 
-# 🔐 10+ Real-World Azure Security MCQs – Crafted by Jamalu
+# 🔐 10+ Real-World Azure Security MCQs – Crafted by Eks2
 
 *For hiring, learning, and cloud mastery.*
 
@@ -81,9 +81,9 @@ These professionals appear throughout the question set:
 
 The client has now put forward a very specific and important request:
 
-> “Mr. Jamalu, I need a set of 10+ multiple-choice questions (MCQs) related to Azure Security. Each question should come with four options, clearly mention the correct answer, and provide a brief explanation of why that option is correct.”
+> “Mr. Eks2, I need a set of 10+ multiple-choice questions (MCQs) related to Azure Security. Each question should come with four options, clearly mention the correct answer, and provide a brief explanation of why that option is correct.”
 
-So, Jamalu rolled up his sleeves and began crafting something thoughtful, scenario-based, and grounded in **real cloud responsibilities**.
+So, Eks2 rolled up his sleeves and began crafting something thoughtful, scenario-based, and grounded in **real cloud responsibilities**.
 
 ---
 
@@ -231,7 +231,7 @@ D. DeployIfNotExists
 ---
 
 > _“These questions won’t just prepare you to pass — they’ll prepare you to perform.”_  
-> — Jamalu  
+> — Eks2  
 > — **Siraat AI Academy**
 
 📁 Created on: 2025-07-16
