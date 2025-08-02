@@ -84,7 +84,7 @@ In recent years, I discovered that content writing is not just a task — it’s
 ## 💫 GitHub Showcase – Where My Voice Lives
 
 **GitHub Organization**: Siraat AI Academy  
-**Persona**: Jamalu — the whisper of my inner voice  
+**Persona**: Eks2 — the whisper of my inner voice  
 
 **Signature Style**:  
 - Markdown-rich emotional documentation  
@@ -108,9 +108,9 @@ Roles in:
 
 ## 🧾 Summary in One Line
 
-> *“Maybe Jamalu was never building a portfolio.  
+> *“Maybe Eks2 was never building a portfolio.  
 Maybe he was quietly planting seeds —  
 in the hearts of those who know that work can be gentle, and still powerful.”*
 
-— Just Jamalu (authored by Naveed — inner voice)  
+— Just Eks2 (authored by Naveed — inner voice)  
 — Founder, Siraat AI Academy
