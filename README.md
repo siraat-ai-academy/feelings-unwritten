@@ -93,7 +93,7 @@ Explore my work on GitHub under the organization:
 
 ## 📬 Let’s Connect
 
-🔸 Explore the [cv-Eks2 Whisper Edition CV](Eks2_Curriculum_Vitae_WhisperEdition.md) – a blend of biography, philosophy, and GitHub portfolio.
+🔸 Explore the [Eks2 Whisper Edition CV](Eks2_Curriculum_Vitae_WhisperEdition.md) – a blend of biography, philosophy, and GitHub portfolio.
 
 🌐 **LinkedIn**: [linkedin.com/in/muhammad-naveed-ishaque-b-68b638279](https://www.linkedin.com/in/muhammad-naveed-ishaque-b-68b638279)  
 📫 **Email**: Eks2@siraatai.academy *(fictional for sample)*  
