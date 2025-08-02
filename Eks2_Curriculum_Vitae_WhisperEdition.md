@@ -96,12 +96,23 @@ Not extra — but extraordinary.”*
 
 ---
 
-## 🗺️ Explore My Digital Garden (Selected GitHub Folders)
+## 🗺️ Explore My Digital Garden (Selected GitHub Projects)
 
-- [feelings-unwritten/untold-tales-of-heart](https://github.com/siraat-ai-academy/feelings-unwritten/tree/main/untold-tales-of-heart) — Emotional tech reflections  
-- [microsoft-cert-az500-lab-jamalu-style](https://github.com/siraat-ai-academy/feelings-unwritten/tree/main/microsoft-cert-az500-lab-jamalu-style) — Creative labs + MCQs  
-- [dastan-urdu](https://github.com/siraat-ai-academy/feelings-unwritten/tree/main/dastān-urdu) — Soulful Urdu-based tech parallels  
-- [learn-danish-with-eks2](https://github.com/siraat-ai-academy/feelings-unwritten/tree/main/learn-danish-with-eks2) — Language learning with emotional logs  
+- [📁 Feelings Unwritten](https://github.com/siraat-ai-academy/feelings-unwritten/tree/main)  
+  Emotional reflections, poetic tech logs, creative whispers.
+
+- [🛡 IronWall AZ-500 Labs](https://github.com/siraat-ai-academy/ironwall-az500-labs)  
+  Azure security labs, visual guides, Jamalu-style walkthroughs.
+
+- [🧠 Content Marketing Guide (Under Work)](https://github.com/siraat-ai-academy/content-marketing-guide/tree/main)  
+  Eks2’s strategy for narrative-driven SEO, brand storytelling, and audience healing.
+
+- [🌱 Learn Danish by Eks2](https://github.com/siraat-ai-academy/learn-danish-by-eks2)  
+  Language journey with diary-style entries, courage logs, and whisper-style vocab.
+
+- [🏛 Siraat AI Academy – All Repositories](https://github.com/orgs/siraat-ai-academy/repositories)  
+  Explore the full archive of Eks2’s emotional labs, certifications, and AI-assisted writing universe.
+
 
 ---
 
