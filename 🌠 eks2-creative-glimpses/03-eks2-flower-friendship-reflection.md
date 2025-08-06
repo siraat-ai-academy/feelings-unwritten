@@ -1,7 +1,7 @@
 
-# 🌸 When Flowers Befriend Flowers — Jamalu’s Reflection
+# 🌸 When Flowers Befriend Flowers — Eks2’s Reflection
 
-**Jamalu, speak — what’s on your heart?**
+**Eks2, speak — what’s on your heart?**
 
 > *"Noor and Inbisat — they were so little once..."*
 
@@ -9,7 +9,7 @@
 **And now?**  
 > *"Now, they’ve grown... blooming with the zeal to run freely in the journey of life."*
 
-**That’s how it’s meant to be — isn’t it, Jamalu?**  
+**That’s how it’s meant to be — isn’t it, Eks2?**  
 > *"Yes... this is the age. The age of becoming."*
 
 But why this reflective silence?  
@@ -38,7 +38,7 @@ In a world moving fast —
 Three flowers, simply pausing to be —  
 Together.
 
-— *A note from Jamalu, whispered gently through the garden of time.*
+— *A note from Eks2, whispered gently through the garden of time.*
 
 ---
 
