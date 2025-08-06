@@ -1,6 +1,3 @@
-
----
-
 # 🌸🕊️ When Humanity Whispers and Heaven Listens  
 ## 💔 A Soulcrafted Cry for Gaza, and for Every Forgotten Voice
 
