@@ -1,100 +1,82 @@
-# 🌿 feelings-unwritten  
+# 🌿 *feelings-unwritten* 🌿
 
-> ✍️ **Writing doesn’t just express emotions. It heals them.**
-
----
-
-## 🪞 A Poem That Reflects — Like Rain on Glass  
-_This piece is not just a poem — it's a quiet mirror, softly asking:_  
-**"Where have we brought the world... and what are we leaving behind?"**
+✍️ **Sometimes writing is not about what we know — but about what we notice.**
 
 ---
 
-# 🌧️ What Kind of World Have I Opened My Eyes Into?
-
-Alright, my brother...  
-I only meant to say:  
-**“See you soon.”**  
-But my heart —  
-it carried more  
-than those three words could hold.  
-
-And you —  
-you felt it.  
-Somewhere deep,  
-where silence usually sits.
+🪞 **A Poem That Pauses — Like Morning Light on Quiet Streets**  
+_This is less about answers, and more about the questions we live with._ 🌸
 
 ---
 
-Look around...  
-Rain came.  
-At first — it was joy.  
-Children danced.  
-Mothers smiled.  
-People called it mercy.  
+## 🌤️ **What Kind of Morning Is This?**
 
-But then —  
-it didn’t stop.  
-It became a flood.  
-And just like that —  
-**lives floated away.**  
-**Dreams drowned in the silence.**
+I woke up today,  
+and for a moment,  
+I just… **listened.** 🍃
 
----
+The kettle hummed ☕  
+Birds traded songs outside my window 🐦  
+Somewhere far away,  
+a train passed 🚉
 
-O people of God...  
-Why do we always forget  
-to take care of what’s been given to us?  
+It all felt gentle —  
+yet something in the air  
+was asking me:
 
-The system is Divine.  
-The balance, already perfect.  
-But it is **our job**  
-to continue it,  
-to protect it,  
-to honor it.  
-
-And what do we do?  
-We break it.  
-We delay.  
-We look away —  
-until disaster comes knocking.
+> “Are we taking care of this?” 🌱
 
 ---
 
-If you won’t protect yourself,  
-at least protect the soil beneath your child’s feet.  
-If not for yourself,  
-then for the birds,  
-the rivers,  
-the unborn poems of tomorrow.
+We live in a world  
+that blooms without asking for applause 🌷 —  
+trees still shade us 🌳,  
+rivers still travel their course 🌊,  
+clouds still gather when the earth is thirsty ☁️.
+
+But we rush.  
+We forget.  
+We push past the quiet gifts  
+that have kept us alive 🌺  
+long before we knew their names.
 
 ---
 
-And someone…  
-a quiet, unseen soul,  
-stood in the doorway of this world —  
-and whispered, through tired eyes:  
+If we can’t slow down for ourselves,  
+maybe we can slow down  
+for the people we love 💞
 
-> **“What kind of world have I opened my eyes into…?”**
+If not for us,  
+then for the hands 👐  
+that will hold this world  
+after we are gone 🌏
 
 ---
 
-## 🌙 A Final Whisper
+And somewhere in that stillness,  
+a thought arrived quietly 💫 —
 
-> _Some poems don’t end with a rhyme.  
-> They end with a wound that gently teaches._  
+> **“The kind of world we wake into… is also the kind of world we make.”** 🌼
+
+---
+
+## 🌙 **Closing Thought**
+
+> _Some reflections aren’t meant to end with applause —_ 👏  
+> _they end with a small shift in the way we see tomorrow._ 🌄
 
 — *Eks2, the whisper behind the work*  
 — *Siraat AI Academy*
 
-
 ---
 
-✍️ Created & Curated by  
+✍️ **Created & Curated by**  
 **Muhammad Naveed Ishaque**  
 _Content Creator | AI Writer | Narrative Simplifier_  
-_With the inner voice of Eks2 — the whisper behind the work._  
+_With the inner voice of Eks2 — the whisper behind the work._
 
 **Siraat AI Academy**  
-_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
 
+🌐 LinkedIn: [https://lnkd.in/dpGSUKnw](https://lnkd.in/dpGSUKnw)  
+🌐 GitHub: https://github.com/siraat-ai-academy
