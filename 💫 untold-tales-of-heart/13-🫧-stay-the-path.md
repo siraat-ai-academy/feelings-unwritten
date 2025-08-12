@@ -1,7 +1,5 @@
 # 🌟🧘‍♂️ 13 – Stay the Path – Wisdom in Uncertainty 🧘‍♀️🌟
 
-# 🌟🧘‍♂️ 13 – Stay the Path – Wisdom in Uncertainty 🧘‍♀️🌟
-
 ---
 
 > **"When things don’t go your way,**  
