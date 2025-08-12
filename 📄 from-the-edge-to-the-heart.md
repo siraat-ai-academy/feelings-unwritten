@@ -115,3 +115,6 @@ _With the silence of I.K. — and the stardust of stories_
 
 **Siraat AI Academy**  
 _"The Straight Path — From strategy to soul."_
+
+[🌐 LinkedIn Profile](https://www.linkedin.com/in/muhammad-naveed-ishaque-68b638279/)  
+[💻 GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)
