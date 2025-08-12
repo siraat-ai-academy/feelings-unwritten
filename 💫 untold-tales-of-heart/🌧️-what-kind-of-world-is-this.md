@@ -78,5 +78,7 @@ _With the inner voice of Eks2 — the whisper behind the work._
 **Siraat AI Academy**  
 _“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
 
-🌐 LinkedIn: [https://lnkd.in/dpGSUKnw](https://lnkd.in/dpGSUKnw)  
-🌐 GitHub: https://github.com/siraat-ai-academy
+[LinkedIn Profile](https://www.linkedin.com/in/muhammad-naveed-ishaque-68b638279/)
+
+[GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)
+
