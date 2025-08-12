@@ -1,108 +1,105 @@
-# 🌿 feelings-unwritten
+# 🌿 *feelings-unwritten* 🌿
 
-> ✍️ **Writing doesn’t just express emotions. It heals them.**  
-> _Every word we leave behind is a breath we couldn’t say aloud._
+✍️ **Writing doesn’t just express emotions — it heals them.**  
+_Every word we leave behind is a breath we couldn’t say aloud._ 🌸
 
 ---
 
-# 📖 A Tale — A Dream Wrapped in the Ashes of Time
+## 📖 *A Tale — A Dream Wrapped in the Quiet of Time*
 
-🕰️ One day,  
-I woke up —  
-No noise, no movement,  
-Just a shadow crawling along the walls...  
-As if time had unfolded all its secrets before me.
+🕰️ One morning,  
+I woke up…  
+No noise.  
+No movement.  
+Just a shadow sliding along the walls 🍃 —  
+as if time had quietly unfolded its secrets.
 
 👁️ I looked at the world —  
-And my gaze paused,  
-Every scene felt like a long-lost moment of time.  
-Every face was veiled in the fog of years.
+and my gaze paused.  
+Every scene felt like a forgotten photograph 📷.  
+Every face was wrapped in a soft mist 🌫️.
 
 💭 Someone asked:  
-**"What stage of life are you standing in?"**  
+**"Where are you in life right now?"**  
 I stayed silent —  
-Because the feeling inside me,  
-How could it ever turn into words?
-
-🌫️ Silence spoke,  
-Stillness called out,  
-**"What’s wrong with you?"**  
-I kept wrestling with myself,  
-But no answer came —  
-Only a silence that spanned a century…
-
-🔔 Then suddenly, a voice echoed —  
-**"Congratulations!  
-You’re nearing sixty years..."**  
-💓 My heart trembled —  
-**"Sixty?"**  
-But my friend, I’ve done nothing yet!
-
-🌱 I was only beginning to gather the courage  
-To stand on life’s doorstep  
-And peer inside…
-
-🧩 When did we ever say we were complete?  
-We’ve always been unfinished.  
-And every seemingly complete moment  
-Only revealed a new absence...
-
-🌫️ Yes, I’ve seen —  
-Many faces,  
-The closest of bonds,  
-Slip silently  
-Into the fog, without even a goodbye...
-
-❤️ But my heart —  
-It still doesn’t accept “farewell.”  
-There’s still so much  
-Left to say,  
-Left to hear,  
-Left to set right…
-
-🌍 This world,  
-These problems,  
-These scattered dreams —  
-They’re all waiting for me.
-
-🌟 And me?  
-I have no intention of leaving just yet.
-
-🛑 So,  
-No goodbyes,  
-No farewells...
-
-Just say this much —  
-**Take care,  
-The story is still being written.**
+Because some feelings  
+refuse to shrink into words.
 
 ---
 
-## 🌙 Eks2’s Final Whisper
+🌫️ Silence spoke.  
+Stillness called out:  
+**"What’s weighing on you?"**
 
-> *“Some stories don’t ask to be written —  
-> They just wait for your silence to make space.”*  
->  
-> — **Eks2, the whisper behind the work**  
-> — *Siraat AI Academy*
+I wrestled with myself,  
+But no answer came —  
+Only a stillness that felt… eternal.
+
+---
+
+🌱 I realised:  
+We are never truly complete.  
+Every time we think we’ve arrived,  
+we find a new path,  
+a new absence,  
+a new longing 🌊.
+
+🌫️ I’ve seen faces —  
+the closest of bonds 🤝 —  
+slip quietly into the fog,  
+without even a goodbye.
+
+❤️ Yet my heart refuses “farewell.”  
+There’s still so much:  
+to say,  
+to hear,  
+to set right.
+
+---
+
+🌍 This world,  
+these challenges,  
+these scattered dreams —  
+they’re still calling my name.
+
+🌟 And me?  
+I have no intention of turning away.
+
+---
+
+🛑 So —  
+No goodbyes.  
+No farewells.
+
+Just say this much:  
+**Take care…  
+the story is still being written.** ✨
+
+---
+
+## 🌙 *Eks2’s Final Whisper*
+
+> _Some stories don’t ask to be written —_  
+> _they simply wait for your silence to make space._ 🌌
+
+— **Eks2, the whisper behind the work**  
+— *Siraat AI Academy*
 
 ---
 
 🖋️ _Some feelings never age.  
-They just keep writing themselves —  
-in margins we forgot to turn to._
+They keep writing themselves —  
+in the margins we forgot to turn to._ 📖
 
 ---
 
-✍️ Created & Curated by  
+✍️ **Created & Curated by**  
 **Muhammad Naveed Ishaque**  
 _Content Creator | AI Writer | Narrative Simplifier_  
-_With the inner voice of Eks2 — the whisper behind the work._  
+_With the inner voice of Eks2 — the whisper behind the work._
 
 **Siraat AI Academy**  
-_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
 
-[LinkedIn Profile](https://www.linkedin.com/in/muhammad-naveed-ishaque-68b638279/)
-
-[GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)
-
+[🌐 LinkedIn Profile](https://www.linkedin.com/in/muhammad-naveed-ishaque-68b638279/)  
+[💻 GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)
